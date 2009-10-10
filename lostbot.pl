@@ -68,8 +68,12 @@ sub irc_public {
     my $where = $_[ARG1]->[0];
     my $what = $_[ARG2];
 
-    if ($what =~ /^,quote$/i && !keys %active) {
-        start_game($where);
+    if ($what =~ /^,quote\b/i && !keys %active) {
+        my $count = 1;
+        ($count) = $what =~ /^,quote\s+(\d+)/;
+        $count = 10 if defined $count && $count > 10;
+        print "count $count\n";
+        start_game($where, $count);
     }
     elsif ($what =~ /^,scores?$/i) {
         print_scores($where);
@@ -80,12 +84,14 @@ sub irc_public {
 }
 
 sub start_game {
-    my ($where) = @_;
+    my ($where, $count) = @_;
 
     my $entry_no = int rand $#scripts;
     $active{entry} = $scripts[$entry_no];
     $active{next} = $entry_no+1;
     $active{points} = 25;
+    $active{count} = $count if $count;
+    $active{where} = $where;
     $irc->yield(privmsg => $where, "“$active{entry}[4]”");
     $poe_kernel->delay(give_hint => 20, $where);
 }
@@ -150,8 +156,12 @@ sub answer {
 }
 
 sub stop_game {
+    $active{count}--;
     $poe_kernel->delay('give_hint');
+    my ($where, $count) = @active{qw(where count)};
     undef %active;
+    print "new no $count\n";
+    start_game($where, $count) if $count;
 }
 
 sub try_guess {

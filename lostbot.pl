@@ -72,7 +72,6 @@ sub irc_public {
         my $count = 1;
         ($count) = $what =~ /^,quote\s+(\d+)/;
         $count = 10 if defined $count && $count > 10;
-        print "count $count\n";
         start_game($where, $count);
     }
     elsif ($what =~ /^,scores?$/i) {
@@ -160,7 +159,6 @@ sub stop_game {
     $poe_kernel->delay('give_hint');
     my ($where, $count) = @active{qw(where count)};
     undef %active;
-    print "new no $count\n";
     start_game($where, $count) if $count;
 }
 

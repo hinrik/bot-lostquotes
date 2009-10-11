@@ -95,7 +95,7 @@ sub start_game {
     $active{entry} = $scripts[$entry_no];
     $active{next} = $entry_no+1;
     $active{points} = 25;
-    $active{count} = $count if $count;
+    $active{count} = $count;
     $active{where} = $where;
     $irc->yield(privmsg => $where, "“$active{entry}[4]”");
     $poe_kernel->delay(give_hint => 20, $where);
@@ -165,7 +165,7 @@ sub stop_game {
     $poe_kernel->delay('give_hint');
     my ($where, $count) = @active{qw(where count)};
     undef %active;
-    start_game($where, $count) if $count;
+    start_game($where, $count) if $count > 0;
 }
 
 sub try_guess {

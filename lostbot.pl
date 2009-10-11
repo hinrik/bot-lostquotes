@@ -85,7 +85,13 @@ sub irc_public {
 sub start_game {
     my ($where, $count) = @_;
 
-    my $entry_no = int rand $#scripts;
+    my $entry_no = int rand @scripts;
+
+    # let's not start with quotes of fewer than 3 words
+    while ((my @words = split /\s+/, $scripts[$entry_no]->[4]) < 3) {
+        $entry_no = int rand @scripts;
+    }
+
     $active{entry} = $scripts[$entry_no];
     $active{next} = $entry_no+1;
     $active{points} = 25;

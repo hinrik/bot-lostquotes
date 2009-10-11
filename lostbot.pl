@@ -5,11 +5,7 @@ use warnings;
 use utf8;
 
 use POE;
-use POE::Component::IRC::State;
-use POE::Component::IRC::Plugin::Connector;
-use POE::Component::IRC::Plugin::NickReclaim;
-use POE::Component::IRC::Plugin::CTCP;
-use POE::Component::IRC::Plugin::AutoJoin;
+use POE::Component::IRC;
 use YAML::Any qw<DumpFile LoadFile>;
 
 my ($irc, @scripts, %active, %scores);
@@ -30,26 +26,13 @@ sub _start {
     load_scores();
     read_transcripts();
 
-    $irc = POE::Component::IRC::State->spawn(
-        #nick         => 'gamesurge',
-        #server       => 'localhost',
-        #port         => 50555,
-        #password     => 'livetogetherdiealone',
-        server        => 'irc.gamesurge.net',
-        nick          => 'LostTrivia',
-        username      => 'tawaret',
-        ircname       => 'Lost Quote Trivia Bot',
+    $irc = POE::Component::IRC->spawn(
+        server       => 'localhost',
+        port         => 50555,
+        nick         => 'gamesurge',
+        password     => 'livetogetherdiealone',
         debug        => 1,
         plugin_debug => 1,
-    );
-
-    $irc->plugin_add(@$_) for (
-        [Connector   => POE::Component::IRC::Plugin::Connector->new()],
-        [CTCP        => POE::Component::IRC::Plugin::CTCP->new()],
-        [NickReclaim => POE::Component::IRC::Plugin::NickReclaim->new()],
-        [AutoJoin    => POE::Component::IRC::Plugin::AutoJoin->new(
-            Channels => ['#lostpedia'],
-        )],
     );
 
     $irc->yield('connect');

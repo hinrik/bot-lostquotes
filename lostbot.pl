@@ -192,6 +192,9 @@ sub read_transcripts {
             next if $line =~ /^\[/;    # no non-dialogue lines
             $line =~ s/\[(?!Subtitle).+?\]//g;     # remove non-dialogue stuff
             next if !length $line;
+            if (my ($subtitle) = $line =~ /\[Subtitle: (.*)\]/) {
+                $line = $subtitle;
+            }
 
             if (my ($who, $what) = $line =~ /^(.+?):\s*(.+)/) {
                 push @scripts, [$title, $season, $episode, $who, $what];

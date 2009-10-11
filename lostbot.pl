@@ -185,7 +185,7 @@ sub try_guess {
     my $short_num = sprintf "%dx%.2d", @number;
     my $long_num = sprintf "s%.2de%.2d", @number;
 
-    if ($try =~ /\b\Q$title\E\b/ || $short =~ tr/A-z// > 2 && $try =~ /\b$short\b/
+    if ($try =~ /\s*\Q$title\E\s*/ || $short =~ tr/A-z// > 2 && $try =~ /\b$short\b/
             || $try =~ /\b$short_num\b/ || $try =~ /\b$long_num\b/) {
         my $pts = $active{points};
         $scores{$who} += $pts;

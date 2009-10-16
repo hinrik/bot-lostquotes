@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
+use List::MoreUtils qw<firstidx>;
 use POE;
 use POE::Component::IRC;
 use YAML::Any qw<DumpFile LoadFile>;
@@ -126,7 +127,7 @@ sub print_scores {
         $irc->yield(privmsg => $where, 'No scores yet');
     }
 
-    my @scores = map { "$_: ".$scores{$_} } keys %scores;
+    my @scores = map { "$_: ".$scores{$_} } sort { $scores{$b} <=> $scores{$a} } keys %scores;
     my $string = '';
     while (@scores) {
         $string .=  (length $string ? ', ' : '') . shift @scores;
@@ -172,8 +173,12 @@ sub try_guess {
             || $try =~ /\b$short_num\b/ || $try =~ /\b$long_num\b/) {
         my $pts = $active{points};
         $scores{$who} += $pts;
+        my $rank = firstidx { $_->[0] eq $who }
+                   sort { $b->[1] <=> $a->[1] }
+                   map { [$_ => $scores{$_}] } keys %scores;
+        $rank++;
         save_scores();
-        $irc->yield(privmsg => $where, "$who: You win $pts points! (".answer().')');
+        $irc->yield(privmsg => $where,"$who: You win $pts points! (".answer()."). Your rank: $rank");
         stop_game();
     }
 }

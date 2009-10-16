@@ -71,7 +71,7 @@ sub start_game {
     my $entry_no = int rand @scripts;
 
     # let's not start with quotes of fewer than 3 words
-    while ((my @words = split /\s+/, $scripts[$entry_no]->[4]) < 3) {
+    while ((my @words = split /\s+/, $scripts[$entry_no]->[4]) < 5) {
         $entry_no = int rand @scripts;
     }
 

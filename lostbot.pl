@@ -8,6 +8,7 @@ use Encode qw<decode>;
 use List::MoreUtils qw<firstidx>;
 use POE;
 use POE::Component::IRC;
+use POE::Component::IRC::Common qw<irc_to_utf8>;
 use YAML::Any qw<DumpFile LoadFile>;
 
 my ($irc, @scripts, %active, %scores);
@@ -51,7 +52,7 @@ sub save_scores {
 sub irc_public {
     my $who = (split /!/, $_[ARG0])[0];
     my $where = $_[ARG1]->[0];
-    my $what = $_[ARG2];
+    my $what = irc_to_utf8($_[ARG2]);
 
     if ($what =~ /^,quote\b/i && !keys %active) {
         my $count = 1;
@@ -154,10 +155,9 @@ sub stop_game {
 }
 
 sub try_guess {
-    my ($who, $where, $what) = @_;
+    my ($who, $where, $try) = @_;
 
     my ($title, @number) = @{$active{entry}}[0..2];
-    my $try = lc $what;
     for ($title, $try) {
         $_ = lc $_;
         s/[,.']//g;

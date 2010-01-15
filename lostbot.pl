@@ -195,11 +195,10 @@ sub read_transcripts {
 
         while (my $line = <$script>) {
             chomp $line;
-            next if $line =~ /^\s*$/;  # no empty lines
-            next if $line =~ /^\[/;    # no non-dialogue lines
-            $line =~ s/\[(?!Subtitle).+?\]//g;     # remove non-dialogue stuff
+            next if $line =~ /^\s*$/;           # no empty lines
+            $line =~ s/\[(?!Subtitle).+?\]//g;  # remove non-dialogue stuff
             next if !length $line;
-            if (my ($subtitle) = $line =~ /\[Subtitle: (.*)\]/) {
+            if (my ($subtitle) = $line =~ /\[Subtitle: (.*?)\]/) {
                 $line = $subtitle;
             }
 

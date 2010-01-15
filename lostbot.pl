@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
+use Encode qw<decode>;
 use List::MoreUtils qw<firstidx>;
 use POE;
 use POE::Component::IRC;
@@ -189,6 +190,7 @@ sub read_transcripts {
 
     for my $file (@files) {
         open my $script, '<:encoding(utf8)', $file or die "Can't open '$file': $!";
+        $file = decode('utf8', $file);
         my ($season, $episode, $title) = $file =~ /^(\d+)x(\d+) - (.+)\.txt/;
 
         while (my $line = <$script>) {

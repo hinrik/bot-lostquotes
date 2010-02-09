@@ -26,15 +26,15 @@ JACK: Whenever you are.
 
 [Sawyer picks up Juliets body with a last glance at Jack before going] [Jack and Jin pick up Sayid]
 
-OCEANIC-MALE: [LAX overhead PA announcement] Oceanic passenger Jack Shepard, Jack Shepard, please go to the nearest courtesy desk. [Jack goes to Oceanic desk]
+OCEANIC-MALE: [LAX overhead PA announcement] Oceanic passenger Jack Shephard, Jack Shephard, please go to the nearest courtesy desk. [Jack goes to Oceanic desk]
 
-JACK: Hi, uh, I'm Jack Shepard, I was just paged?
+JACK: Hi, uh, I'm Jack Shephard, I was just paged?
 
-OCEANIC-MALE: Oh, Mr. Shepard, hello, yes - that was me, uh, sorry I meant to meet you at the gate.
+OCEANIC-MALE: Oh, Mr. Shephard, hello, yes - that was me, uh, sorry I meant to meet you at the gate.
 
 JACK: Well, I'm here now. So...
 
-OCEANIC-MALE: Mr. Shepard, I'm deeply sorry but there seems to have been a mix up involving the, uh, cargo you checked in Sydney.
+OCEANIC-MALE: Mr. Shephard, I'm deeply sorry but there seems to have been a mix up involving the, uh, cargo you checked in Sydney.
 
 JACK: Cargo?
 
@@ -46,7 +46,7 @@ OCEANIC-MALE: It appears it was never put on the plane.
 
 JACK: [visibly upset] The funeral is in two hours - when is it getting here?
 
-OCEANIC-MALE: Mr. Shepard, I can't tell you how deeply sorry we are but we don't know when it will arrive, because we're not exactly sure where it is.
+OCEANIC-MALE: Mr. Shephard, I can't tell you how deeply sorry we are but we don't know when it will arrive, because we're not exactly sure where it is.
 
 [Jack, Jin, Sayid, Kate, Hurely - approach wall surrounding temple]
 
@@ -294,7 +294,7 @@ JIN: Jin Soo-Kwan.
 
 KATE: Kate Austen.
 
-JACK: Jack Shepard.
+JACK: Jack Shephard.
 
 [CHINESE-MAN speaks chinese]
 
@@ -652,7 +652,7 @@ LOCKE: Oh, no, don't worry about it - uh, uh surgery isn't gonna do anything to 
 
 JACK: Nothing is irreversible. Umm, if you ever wanna consult, just uh, gimme a call. [Jack hands Locke his business card] - It's on the house.
 
-LOCKE: Well thanks [takes card - reads name] - Jack Shepard, I'm John - John Locke.
+LOCKE: Well thanks [takes card - reads name] - Jack Shephard, I'm John - John Locke.
 
 JACK: It's nice to meet ya John.
 
@@ -692,7 +692,7 @@ LOCKE: I am very disappointed ... in all of you.
 
 [Lennon and a couple others walk up to Jack, still looking at Sayid's corpse]
 
-LENNON: You Shepard?
+LENNON: You Shephard?
 
 JACK: Yeah.
 

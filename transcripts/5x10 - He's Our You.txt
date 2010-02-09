@@ -230,11 +230,11 @@ JACK: Yeah.
 
 KATE: Hmm.
 
-(door opens)
+[door opens]
 
-(bucket clatters, wheels squeak and rattle)
+[bucket clatters, wheels squeak and rattle]
 
-(liquid swishing)
+[liquid swishing]
 
 ROGER: You know what I can't figure out? Is how the hell you got caught. You hostiles are supposed to be the kings of the jungle. And how dumb are you that you got captured by these idiots?
 
@@ -242,7 +242,7 @@ SAYID: (laughs) And yet you're the one who mops up after them.
 
 ROGER: Yeah, well... We'll see how cute you are once Oldham gets done with you, pal.
 
-(mop clatters)
+[mop clatters]
 
 ROGER: What the hell are you doing here?
 
@@ -250,7 +250,7 @@ YOUNG BEN: (inhales sharply) I was bringing you a sandwich.
 
 ROGER: A sandwich?
 
-(Roger scoffs)
+[Roger scoffs]
 
 ROGER: You never made me a sandwich in your life.
 
@@ -266,9 +266,9 @@ YOUNG BEN: (gasps) Dad, don't!
 
 ROGER: Don't you lie to me. What are you doin' down here?
 
-(loud thud)
+[loud thud]
 
-(gasps and cries)
+[gasps and cries]
 
 ROGER: You made this sandwich for him, didn't you? Hmm?
 
@@ -288,13 +288,13 @@ YOUNG BEN: (cries)
 
 ROGER: Go on. I'll tell you what to think.
 
-(dish shatters)
+[dish shatters]
 
-(tray clatters)
+[tray clatters]
 
-(keys jangle, door slams)
+[keys jangle, door slams]
 
-(hammering, whirring)
+[hammering, whirring]
 
 SAYID: How did you find me?
 
@@ -326,11 +326,11 @@ BEN: Well, then I apologize. I was mistaken about you.
 
 [Sawyer, Phil, Radzinsky and two unnamed DHARMA members enter the jail room.]
 
-(keys jangle)
+[keys jangle]
 
-(door unlocks)
+[door unlocks]
 
-(door bangs open)
+[door bangs open]
 
 [Sawyer unlocks the cell and approaches Sayid.]
 
@@ -338,7 +338,7 @@ SAWYER: [To Sayid] All right, last chance. You got anything to say?
 
 [Sayid does not reply. Sawyer sighs and shocks him.]
 
-(electricity crackles)
+[electricity crackles]
 
 [Sayid drops to the floor.]
 
@@ -346,15 +346,15 @@ SAWYER: (sighs) Take him to Oldham.
 
 [The other members enter the cell and handcuff Sayid. A DHARMA van pulls up in the jungle. Phil, Radzinsky, Horace and Sawyer exit, while pulling out a handcuffed Sayid.]
 
-(door shuts)
+[door shuts]
 
-(door slides shut)
+[door slides shut]
 
 [They all walk towards a tent. A phonograph is playing a record.]
 
-(bluesy jazz playing on phonograph)
+[bluesy jazz playing on phonograph]
 
-WOMAN: # I can't give you #
+# I can't give you #
 
 # anything #
 
@@ -384,7 +384,7 @@ scheme a while #
 
 [A man steps out of the tent and takes the needle off of the record.]
 
-(record warps)
+[record warps]
 
 SAYID: [To Sawyer] (lowered voice) Who is that man?
 
@@ -396,9 +396,9 @@ OLDHAM: Better put him in the restraints.
 
 [Radzinsky and Phil drag Sayid over to some restraints attached to some trees and strap him in.]
 
-(all grunting)
+[all grunting]
 
-(groans)
+[groans]
 
 OLDHAM: [To Sayid] Don't worry. They're for your protection. There are side effects to what I'm giving you. [To Phil] Open his mouth.
 
@@ -408,19 +408,19 @@ PHIL: Open up.
 
 [Oldham inserts the sugar cube. Radzinsky and Phil quickly shut his mouth and hold it shut.]
 
-(crunch)
+[crunch]
 
-(groans)
+[groans]
 
-(grunting)
+[grunting]
 
-(panting)
+[panting]
 
 OLDHAM: [To Sayid] Don't be afraid. Just turn your mind off. Let it take effect.
 
 [Radzinsky and Phil let go of Sayid. Sayid rushes forward to Oldham, but is held back by the restraints.]
 
-(rattle)
+[rattle]
 
 OLDHAM: [To Sayid] It's beyond your control, so fighting it is a poor use of your energies. You see, whether you struggle or not, one thing's for sure, friend. You will tell us the truth. 
 
@@ -438,11 +438,11 @@ BEN: Sayid, where are you going?
 
 [Kate retreats to her car and drives away. Sayid turns away.]
 
-(car door closes, engine starts)
+[car door closes, engine starts]
 
 SAYID: I don't want any part of this.
 
-(tires sqealing)
+[tires sqealing]
 
 SAYID: [Pointing at Ben] And if I see you again, it'll be extremely unpleasant for us both.
 
@@ -476,7 +476,7 @@ ILANA: Same reason I'm eating my dinner here instead of a table. [To the bartend
 
 BARTENDER: Yes, ma'am. Rib eye, bloody.
 
-(indistinct conversations)
+[indistinct conversations]
 
 SAYID: Are you a professional?
 
@@ -582,7 +582,7 @@ OLDHAM: [To Horace] Maybe I should've used half a dropper. Oops.
 
 SAYID: You...You used exactly enough.
 
-(laughing)
+[laughing]
 
 [At the Motor Pool, Juliet is showing Kate around.]
 
@@ -600,15 +600,15 @@ KATE: It's fine.
 
 [The DHARMA van containing Sayid returns to the Barracks. Everyone gets out. Kate and Juliet look on, concerned. Sayid and Sawyer look back towards them.]
 
-(vehicle approaching)
+[vehicle approaching]
 
-(shifts gears)
+[shifts gears]
 
-(turns off engine)
+[turns off engine]
 
-(van doors shut)
+[van doors shut]
 
-(door slides shut)
+[door slides shut]
 
 [A group of DHARMA members are gathered inside a house.]
 
@@ -644,7 +644,7 @@ RADZINSKY: Horace, you've got to call for a vote. (sighs) Either we make a decis
 
 AMY: Radzinsky's right. Horace, please...
 
-(Ethan fussing)
+[Ethan fussing]
 
 AMY: I can't...I can't sleep with one eye open. We have a baby now. We have to think about Ethan. We have to think about all the children here. How are we going to feel safe with this man around? I don't know what he's up to, but we can't keep him here. We have no choice.
 
@@ -668,7 +668,7 @@ ILANA: Mmm. Just for the record, I really was just there for dinner.
 
 SAYID: Are you afraid I'll get the wrong idea?
 
-(chuckles)
+[chuckles]
 
 SAYID: Mmm.
 
@@ -676,17 +676,17 @@ SAYID: Mmm.
 
 ILANA: I think it's too late for that.
 
-(moans)
+[moans]
 
 [Sayid holds Ilana's leg.]
 
 ILANA: Take it off.
 
-(sighs)
+[sighs]
 
 [Sayid starts to unzip Ilana's boot. She suddenly kicks him in the face twice and throws him onto the bed, elbowing him in the face and pulling a gun on him before he can fight back.]
 
-(smack, gun cocks)
+[smack, gun cocks]
 
 ILANA: You so much as flinch, and you're dead.
 
@@ -704,9 +704,9 @@ ILANA: Doesn't matter what I am. You're going to answer for what you've done.
 
 [Sawyer unlocks Sayid's cell and enters. Sayid is sat on the bed.]
 
-(keys jangle)
+[keys jangle]
 
-(door rattles)
+[door rattles]
 
 SAWYER: [To Sayid] Hit me in the face.
 
@@ -714,7 +714,7 @@ SAYID: (chuckles) What?
 
 SAWYER: Go on. You owe me one anyway, so make it a good one.
 
-(keys jangle)
+[keys jangle]
 
 SAWYER: Then I want you to take these keys out of my pocket and let yourself out. The guard outside is Phil. He's a dimwit, so I reckon you can get his gun before he even realizes you're out. Just promise me you won't shoot him.
 
@@ -734,7 +734,7 @@ SAWYER: To get shot? Then what? You're out of your mind.
 
 [Sawyer returns home, but changes his mind on the doorstep and walks across to Kate's house. He knocks and she answers.]
 
-(door creaks)
+[door creaks]
 
 SAWYER: Hey.
 
@@ -752,25 +752,25 @@ SAWYER: Why, Kate?
 
 KATE: I don't know why everyone else came back. I just know why I did.
 
-(vehicle approaching)
+[vehicle approaching]
 
 [They are interruptted by the sound of a speeding van. Sawyer turns around to see a burning DHARMA van speeding through some fences. It crashes into a house.]
 
-(crashing)
+[crashing]
 
 SAWYER: What?
 
-(crash)
+[crash]
 
 SAWYER: What the hell?!
 
 [Sawyer and Kate run to the scene and start to help in tackling the blaze. A woman smashes the window and jumps from it.]
 
-(alarm blaring)
+[alarm blaring]
 
 KATE: Are you ok?
 
-(man shouting indistinctly)
+[man shouting indistinctly]
 
 [Sawyer runs to a water tank and turns the valve.]
 
@@ -780,7 +780,7 @@ MAN: Okay.
 
 [Kate assists a woman as she climbs out of the window.]
 
-(people shouting)
+[people shouting]
 
 [The fuel tank on the van explodes.]
 
@@ -800,7 +800,7 @@ SAWYER: Man this hose!
 
 MAN: Push it out!
 
-(grunts)
+[grunts]
 
 SAWYER: [On walkie] All security! All security! This is LaFleur! We have a fire! Everyone get to building 15 now!
 
@@ -808,9 +808,9 @@ SAWYER: [On walkie] All security! All security! This is LaFleur! We have a fire!
 
 PHIL: [On walkie] Roger that. I'm on my way.
 
-(door creaks)
+[door creaks]
 
-(door creaks)
+[door creaks]
 
 [He grabs a gun and exits the Security Office. A hooded figure sneaks into the office and walks into the cell room. Sayid is standing at the bars, hands crossed.]
 
@@ -822,7 +822,7 @@ YOUNG BEN: My dad.
 
 SAYID: For bringing me the sandwich? I know. My father was a hard man as well.
 
-(voice breaks)
+[voice breaks]
 
 YOUNG BEN: I really hate it here. If I let you out...will you take me with you, to your people?
 
@@ -840,9 +840,9 @@ ILANA: Where else would we be going?
 
 [They continue to walk. Sayid notices Jack approaching Hurley, and then Kate sat on the seats.]
 
-(speaking inaudibly)
+[speaking inaudibly]
 
-(indistinct conversations)
+[indistinct conversations]
 
 SAYID: Can I ask you a favor? Can we get the next plane?
 
@@ -882,13 +882,13 @@ SAYID: I did.
 
 [Back at the Barracks, young Ben unlocks the cell door and frees Sayid.]
 
-(lock clanks)
+[lock clanks]
 
-(door creaks)
+[door creaks]
 
 [They run through the jungle, but get caught in the headlights of an on-coming DHARMA van. Ben trips and falls.]
 
-(vehicle approaching)
+[vehicle approaching]
 
 YOUNG BEN: Whoa! Aah!
 
@@ -896,7 +896,7 @@ SAYID: Hide!
 
 [The van stops.]
 
-(engine turns off)
+[engine turns off]
 
 [The driver steps out with a flash light and a gun. The driver is Jin.]
 
@@ -908,7 +908,7 @@ SAYID: Sawyer let me go. They were going to kill me.
 
 JIN: What?
 
-(static)
+[static]
 
 PHIL: [On walkie] Attention. The prisoner escaped. The hostile is no longer in custody. Be on the lookout. He could be armed.
 
@@ -918,7 +918,7 @@ JIN: Okay. Let me talk to him first. [on the walkie] LaFleur, it's Jin here. Com
 
 [Before anyone on the walkie can respond, Sayid grabs Jin and throws him to the floor. Then he hits him in the face, knocking him unconscious.]
 
-(grunts)
+[grunts]
 
 YOUNG BEN: Whoa! Where'd you learn to do that?
 

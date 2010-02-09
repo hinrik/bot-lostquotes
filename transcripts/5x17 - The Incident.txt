@@ -26,7 +26,7 @@ JACK: Five minutes.
 
 [panting]
 
-Dr. Shephard? You all right?
+NURSE: Dr. Shephard? You all right?
 
 JACK: The dural sac--I cut it.
 
@@ -488,7 +488,7 @@ RICHARD: Tell him I said hello.
 
 [Stone scraping]
 
-BEN: Will you be able to do this, Ben? I know it won't be easy, but things will change... [whispers] once he's gone. I promise.
+LOCKE: Will you be able to do this, Ben? I know it won't be easy, but things will change... [whispers] once he's gone. I promise.
 
 [Whoosh]
 
@@ -592,9 +592,11 @@ What's the matter?!
 
 DR. CHANG: It won't shut down!
 
-Why not?!
+SAWYER: Why not?!
 
-DR. CHANG: Something's pulling the drill down. We hit the pocket!
+DR. CHANG: Something's pulling the drill down.
+
+RADZINSKY: We hit the pocket!
 
 SAWYER: Hurry up, Doc! What are you waiting for?! Drop it!
 
@@ -674,7 +676,7 @@ Aah!
 
 [Screaming]
 
-SAWYER: where do you think you're going, Blondie?
+SAWYER: Where do you think you're going, Blondie?
 
 [Gasps] Aah!
 

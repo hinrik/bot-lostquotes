@@ -286,7 +286,7 @@ ROBERT: Maintenant, pose ton fusil. [Now put down your gun.]
 
 [Danielle hesitates.]
 
-ROBERT: Je t'aime, Danielle. Je ne veux que rien nous arrive. A toi, et à notre bébé. Je t'en supprie - fais pas ça. [I love you, Danielle. I don't want anything to happen to us. To you, or to our baby.]
+ROBERT: Je t'aime, Danielle. Je ne veux que rien nous arrive. A toi, et à notre bébé. Je t'en supplie - fais pas ça. [I love you, Danielle. I don't want anything to happen to us. To you, or to our baby.]
 
 [Danielle slowly lowers her gun. Suddenly, Robert cocks his gun and fires, but it does not work. Danielle shoots Robert in the head.]
 

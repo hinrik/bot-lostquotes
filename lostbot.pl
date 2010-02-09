@@ -202,7 +202,7 @@ sub read_transcripts {
                 $line = $subtitle;
             }
 
-            if (my ($who, $what) = $line =~ /^(.+?):\s*(.+)/) {
+            if (my ($who, $what) = $line =~ /^(.+?):\s*(.+)\s*/) {
                 push @scripts, [$title, $season, $episode, $who, $what];
             }
         }

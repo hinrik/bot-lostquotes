@@ -191,18 +191,18 @@ sub read_transcripts {
     for my $file (@files) {
         open my $script, '<:encoding(utf8)', $file or die "Can't open '$file': $!";
         $file = decode('utf8', $file);
-        my ($season, $episode, $title) = $file =~ /^(\d+)x(\d+) - (.+)\.txt/;
+        my ($season, $episode, $title) = $file =~ /^(\d+)x(\d+) - (.+)\.txt$/;
 
         while (my $line = <$script>) {
             chomp $line;
-            next if $line =~ /^\s*$/;           # no empty lines
-            $line =~ s/\[(?!Subtitle).+?\]//g;  # remove non-dialogue stuff
+            next if $line =~ /^\s*$/;              # skip empty lines
+            $line =~ s/\[(?!Subtitle).+?\]\s*//g;  # remove non-dialogue stuff
             next if !length $line;
-            if (my ($subtitle) = $line =~ /\[Subtitle: (.*?)\]/) {
-                $line = $subtitle;
-            }
 
             if (my ($who, $what) = $line =~ /^(.+?):\s*(.+)\s*/) {
+                if (my ($subtitle) = $what =~ /\[Subtitle: (.*?)\]/) {
+                    $what = $subtitle;
+                }
                 push @scripts, [$title, $season, $episode, $who, $what];
             }
         }

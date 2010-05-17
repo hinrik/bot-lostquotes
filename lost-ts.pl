@@ -8,7 +8,6 @@ use Encode qw<decode>;
 use POE;
 use POE::Component::IRC;
 use POE::Component::IRC::Common qw<irc_to_utf8>;
-use Data::Dumper;
 
 use constant {
     TITLE  => 0,

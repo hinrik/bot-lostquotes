@@ -31,7 +31,7 @@ sub _start {
 
     $irc = POE::Component::IRC->spawn(
         server       => 'localhost',
-        port         => 50555,
+        port         => 50666,
         nick         => 'gamesurge',
         password     => 'livetogetherdiealone',
         debug        => 1,

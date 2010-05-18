@@ -9,6 +9,7 @@ use List::Util qw<shuffle>;
 use POE;
 use POE::Component::IRC;
 use POE::Component::IRC::Common qw<irc_to_utf8>;
+use URI::Escape;
 
 use constant {
     TITLE  => 0,
@@ -16,6 +17,7 @@ use constant {
     EP     => 2,
     CHAR   => 3,
     LINE   => 4,
+    NUMBER => 5,
 };
 
 my ($irc, @scripts);
@@ -53,10 +55,15 @@ sub irc_public {
 
     if ($what =~ s/^,ts\s+//i) {
         my $entry = find_quote($what);
-        my $msg = defined $entry
-            ? "[$entry->[SEASON]x$entry->[EP]] $entry->[CHAR]: “$entry->[LINE]”"
-            : 'No matching quotes found.';
-        $irc->yield(privmsg => $where, $msg);
+        if (defined $entry) {
+            $irc->yield(privmsg => $where, "[$entry->[SEASON]x$entry->[EP]] $entry->[CHAR]: “$entry->[LINE]");
+            my $url = "http://github.com/hinrik/bot-lostquotes/blob/master/transcripts/";
+            $url .= uri_escape("$entry->[SEASON]x$entry->[EP] - $entry->[TITLE]").".txt#L$entry->[NUMBER]";
+            $irc->yield(privmsg => $where, "Context: $url");
+        }
+        else {
+            $irc->yield(privmsg => $where, 'No matching quotes found.');
+        }
     }
 }
 
@@ -126,7 +133,7 @@ sub read_transcripts {
                 if (my ($subtitle) = $what =~ /\[Subtitle: (.*?)\]/) {
                     $what = $subtitle;
                 }
-                push @scripts, [$title, $season, $episode, $who, $what];
+                push @scripts, [$title, $season, $episode, $who, $what, $.];
             }
         }
     }

@@ -57,7 +57,7 @@ sub irc_public {
         my $entry = find_quote($what);
         if (defined $entry) {
             $irc->yield(privmsg => $where, "[$entry->[SEASON]x$entry->[EP]] $entry->[CHAR]: “$entry->[LINE]”");
-            my $url = "http://nix.is/quotes/$entry->[SEASON]x$entry->[EP].txt#L$entry->[NUMBER]";
+            my $url = "http://nix.is/quotes/$entry->[SEASON]x$entry->[EP].html#L$entry->[NUMBER]";
             $irc->yield(privmsg => $where, "Context: $url");
         }
         else {

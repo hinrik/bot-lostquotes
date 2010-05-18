@@ -101,7 +101,7 @@ sub find_quote {
         if ($query =~ m{^/}) {
             # regex search
             my ($regex) = $query =~ m{/(.*)/};
-            next if !eval { $candidate->[LINE] =~ /$regex/ };
+            next if !eval { no re 'eval'; $candidate->[LINE] =~ /$regex/ };
         }
         else {
             # case-insensitive word search

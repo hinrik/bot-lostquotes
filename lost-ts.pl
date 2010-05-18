@@ -9,7 +9,8 @@ use List::Util qw<shuffle>;
 use POE;
 use POE::Component::IRC;
 use POE::Component::IRC::Common qw<irc_to_utf8>;
-use URI::Escape;
+use POE::Component::IRC::Plugin::BotCommand;
+use Text::Capitalize;
 
 use constant {
     TITLE  => 0,
@@ -20,13 +21,20 @@ use constant {
     NUMBER => 5,
 };
 
+my %param2index = (
+    s => CHAR,
+    e => CHAR,
+    c => SEASON,
+);
+
 my ($irc, @scripts);
 
 POE::Session->create(
     package_states => [
         (__PACKAGE__) => [qw(
             _start
-            irc_public
+            irc_botcmd_ts
+            irc_botcmd_tscount
         )],
     ],
 );
@@ -45,58 +53,119 @@ sub _start {
         plugin_debug => 1,
     );
 
+    $irc->plugin_add('BotCommand', POE::Component::IRC::Plugin::BotCommand->new(
+        Addressed      => 0,
+        Prefix         => ',',
+        Ignore_unknown => 1,
+        Commands       => {
+            ts      => 'Look up a line from the Lost transcripts',
+            tscount => 'Count the matches of this query in the transcripts',
+        },
+    ));
+
     $irc->yield('connect');
 }
 
-sub irc_public {
-    my $who = (split /!/, $_[ARG0])[0];
-    my $where = $_[ARG1]->[0];
-    my $what = irc_to_utf8($_[ARG2]);
+sub irc_botcmd_ts {
+    my $who   = (split /!/, $_[ARG0])[0];
+    my $where = $_[ARG1];
+    my $what  = irc_to_utf8($_[ARG2]);
 
-    if ($what =~ s/^,ts\s+//i) {
-        my $entry = find_quote($what);
-        if (defined $entry) {
-            $irc->yield(privmsg => $where, "$entry->[CHAR]: “$entry->[LINE]”");
-            my $url = "http://nix.is/quotes/$entry->[SEASON]x$entry->[EP].html#L$entry->[NUMBER]";
-            $irc->yield(privmsg => $where, "Context: $url");
-        }
-        else {
-            $irc->yield(privmsg => $where, 'No matching quotes found.');
-        }
+    my ($params, $query) = parse_params($what);
+    my $entry = find_quote($params, $query);
+
+    if (defined $entry) {
+        $irc->yield(privmsg => $where, "$entry->[CHAR]: “$entry->[LINE]”");
+        my $url = "http://nix.is/quotes/$entry->[SEASON]x$entry->[EP].html#L$entry->[NUMBER]";
+        $irc->yield(privmsg => $where, "Context: $url");
+    }
+    else {
+        $irc->yield(privmsg => $where, 'No matching quotes found.');
     }
 }
 
-sub find_quote {
+sub irc_botcmd_tscount {
+    my $who   = (split /!/, $_[ARG0])[0];
+    my $where = $_[ARG1];
+    my $what  = irc_to_utf8($_[ARG2]);
+
+    my ($params, $query) = parse_params($what);
+    
+    if (keys %$params != 1) {
+        $irc->yield(privmsg => $where, 'You must specify 1 (and only 1) of c=, s=, or e=');
+        return;
+    }
+
+    my ($param) = keys %$params;
+
+    if ($param eq 'e' && $params->{$param} !~ /^\dx\d\d$/) {
+        $irc->yield(privmsg => $where, 'Ep number must be of the format #x##, e.g. 6x15');
+        return;
+    }
+
+    my @matches = find_quote($params, $query);
+
+    if (!@matches) {
+        $irc->yield(privmsg => $where, 'No matches quotes found.');
+        return;
+    }
+
+    my $count_index = $param2index{$param};
+    my %freq;
+
+    for my $match (@matches) {
+        my $value = $match->[$count_index];
+        $freq{$value}++;
+    }
+
+    my $prefix = $count_index eq SEASON ? 'S' : '';
+    my @data = map {
+        my $entry = $count_index eq CHAR ? capitalize(lc $_) : $_;
+        "$prefix$entry => $freq{$_}"
+    } sort { $freq{$b} <=> $freq{$a} } keys %freq;
+
+    $irc->yield(privmsg => $where, 'Matches: ' . join(', ', @data));
+}
+
+sub parse_params {
     my ($query) = @_;
 
-    my (%params, $entry);
-
-    # parse optional parameters
-    while ($query =~ s/^([cse])=("[^"]+"|\S+)\s*//g) {
+    my %params;
+    while ($query =~ s/([cse])=("[^"]+"|\S+)\s*//g) {
         my ($key, $value) = ($1, $2);
         $value =~ s/^"|"$//g;
         $params{$key} = $value;
     }
 
+    return \%params, $query;
+}
+
+sub find_quote {
+    my ($params, $query) = @_;
+
+    my (@results, $entry);
+
     for my $candidate (shuffle(@scripts)) {
-        if (defined $params{c}) {
-            next if lc($candidate->[CHAR]) ne lc($params{c});
+        if (defined $params->{c}) {
+            next if lc($candidate->[CHAR]) ne lc($params->{c});
         }
-        if (defined $params{s}) {
-            next if $candidate->[SEASON] != $params{s};
+        if (defined $params->{s}) {
+            next if $candidate->[SEASON] != $params->{s};
         }
-        if (defined $params{e}) {
-            if (defined $params{s}) {
-                next if $candidate->[EP] != $params{e};
+        if (defined $params->{e}) {
+            if (defined $params->{s}) {
+                next if $candidate->[EP] != $params->{e};
             }
             else {
-                my ($season, $ep) = $params{e} =~ /^(\d)x(\d+)$/;
+                my ($season, $ep) = $params->{e} =~ /^(\d)x(\d+)$/;
                 next if $candidate->[SEASON] != $season;
                 next if $candidate->[EP] != $ep;
             }
         }
 
-        return $candidate if !length $query;
+        if (!length $query) {
+            wantarray ? push @results, $candidate : return $candidate;
+        }
 
         if ($query =~ m{^/}) {
             # regex search
@@ -113,10 +182,11 @@ sub find_quote {
             next if $candidate->[LINE] !~ /\b\Q$normal\E\b/i
             && $candidate->[LINE] !~ /\b\Q$fancy\E\b/i
         }
-        return $candidate;
+
+        wantarray ? push @results, $candidate : return $candidate;
     }
 
-    return;
+    return @results;
 }
 
 sub read_transcripts {

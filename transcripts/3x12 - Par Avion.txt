@@ -54,7 +54,7 @@ SAYID: What do you suggest; we shoot him like a dog?
 
 LOCKE: No, I like dogs.
 
-ROUSSEAU: He’s right; they will not trade his life for his friend’s. We should shoot him.
+DANIELLE: He’s right; they will not trade his life for his friend’s. We should shoot him.
 
 KATE: Enough, nobody’s shooting anybody. The map says where they are and he says the map is right. Just keep moving.
 
@@ -194,11 +194,11 @@ BARNES: Didn’t say it was. Good day Miss Littleton.
 
 KATE: Can I ask you something? I told you that your daughter was living with them, and you haven’t asked me a single question about her, you haven’t—
 
-ROUSSEAU: Your friend, Jack. Do you care about him?
+DANIELLE: Your friend, Jack. Do you care about him?
 
 KATE: Yes.
 
-ROUSSEAU: Imagine sixteen years from now, you’re told he’s still alive, but in your heart, you know that he wouldn’t remember you, he wouldn’t know you. He wouldn’t even know that you ever cared about him. I haven’t asked you questions about my daughter, because I do not want to know the answers.
+DANIELLE: Imagine sixteen years from now, you’re told he’s still alive, but in your heart, you know that he wouldn’t remember you, he wouldn’t know you. He wouldn’t even know that you ever cared about him. I haven’t asked you questions about my daughter, because I do not want to know the answers.
 
 [Rousseau walks away. The scene cuts to the “A-team” walking through the woods.]
 
@@ -208,7 +208,7 @@ MIKHAIL: No thank you.
 
 KATE: So how’d you get here? How’d you get onto this island?
 
-ROUSSEAU: Don’t waste your breath; whatever he says will be a lie.
+DANIELLE: Don’t waste your breath; whatever he says will be a lie.
 
 MIKHAIL: I was recruited when I was 24; I was approached by a man—
 
@@ -246,7 +246,7 @@ SAYID: The more I learn about your people, the more I suspect you’re not as om
 
 MIKHAIL: Of course I don’t know you, Sayid Jarrah. How could I? And you, Kate Austen, are a complete stranger to me. But you John Locke, you I might have a fleeting memory of, but I must be confused, because the John Locke I know was paral—
 
-ROUSSEAU: Hey! Look at this! Over here…come on.
+DANIELLE: Hey! Look at this! Over here…come on.
 
 [They walk out of the jungle to the sonic fence. The “A-team” looks up at the pylons in awe.]
 
@@ -568,7 +568,7 @@ CHRISTIAN: I’m your father, Claire.
 
 SAYID: The system appears to fire a sonic pulse when an object breaks the plane between two pylons. So, as long as we don’t break the plane, we should remain unharmed.
 
-ROUSSEAU: Why don’t we just use the plastic explosive you took?
+DANIELLE: Why don’t we just use the plastic explosive you took?
 
 LOCKE: Be my guest, you wanna go stick it on there?
 
@@ -728,7 +728,7 @@ CLAIRE: That’s better. So how are you today mom? Did you have an okay night? T
 
 [Charlie and Claire are standing on the beach with the bird. Charlie has the letter they will attach.]
 
-CHARLIE (reading the letter): To whom it may concern, we are survivors of Oceanic Flight 815. We have survived on this island for 80 days. We were 6 hours into the flight when the pilot said we were off course and turned back towards Fiji. We hit turbulence and crashed. We’ve been waiting here, all this time, waiting for rescue that has not come. We do not know where we are, we only know you have not found us. We’ve done our best to live on this island. Some of us have come to accept that we may never leave it. Not all of us have survived since the crash, but there is new life too, and with it, there is hope. We are alive. Please don’t give up on us.
+CHARLIE: [reading the letter] To whom it may concern, we are survivors of Oceanic Flight 815. We have survived on this island for 80 days. We were 6 hours into the flight when the pilot said we were off course and turned back towards Fiji. We hit turbulence and crashed. We’ve been waiting here, all this time, waiting for rescue that has not come. We do not know where we are, we only know you have not found us. We’ve done our best to live on this island. Some of us have come to accept that we may never leave it. Not all of us have survived since the crash, but there is new life too, and with it, there is hope. We are alive. Please don’t give up on us.
 
 CHARLIE: It’s—it’s perfect, Claire.
 
@@ -746,6 +746,6 @@ KATE: Jack!
 
 [She almost runs out of the jungle, but Sayid grabs her. Jack turns and catches a football that was thrown by Tom.]
 
-TOM: Ha! Whoop!
+MR. FRIENDLY: Ha! Whoop!
 
 [Jack throws it back. Tom throws it to Jack once more, and Jack spikes it to the ground.] 

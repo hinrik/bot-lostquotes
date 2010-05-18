@@ -34,13 +34,13 @@ HARPER: Yes?
 
 [Tom enters]
 
-TOM: Harper, I'm sorry for the interruption. I know you don't like me busting in, but Ben would like to see the doc.
+MR. FRIENDLY: Harper, I'm sorry for the interruption. I know you don't like me busting in, but Ben would like to see the doc.
 
 HARPER: Uh... She's all yours, Tom. It was nice talking to you, Juliet. Welcome to the Island.
 
 [Tom chuckles as he walks Juliet through the Barracks.]
 
-TOM: That Harper's a piece of work. (Chuckles) But you give her a week, she'll have you cryin' about your daddy. I'm speaking from personal experience here. (Laughs)
+MR. FRIENDLY: That Harper's a piece of work. (Chuckles) But you give her a week, she'll have you cryin' about your daddy. I'm speaking from personal experience here. (Laughs)
 
 [laughs]
 
@@ -244,23 +244,23 @@ JULIET: If we move all night, maybe we can still catch them. Thank you.
 
 [Birds chirping]
 
-DAN: I think it's that way. But what happens if I... what if I can't do it?
+FARADAY: I think it's that way. But what happens if I... what if I can't do it?
 
 CHARLOTTE: Dan. Look at me. I know you can do this. Should we get going?
 
-DAN: Yeah.
+FARADAY: Yeah.
 
 CHARLOTTE: Come on.
 
 [Kate walks out of the bushes and Charlotte draws her gun.]
 
-DAN: Whoa, whoa, whoa. It's--it's okay. It's okay. It's Kate.
+FARADAY: Whoa, whoa, whoa. It's--it's okay. It's okay. It's Kate.
 
 [Charlotte lowers her gun.] 
 
 [Kate fills up her water bottle in the stream.]
 
-DAN: So they have Miles?
+FARADAY: So they have Miles?
 
 KATE: Yeah, but he's fine. They're treating him fine. I thought you two were with Jack at the beach. What are you guys doing out here?
 
@@ -274,7 +274,7 @@ KATE: So... if you threw your pack from the chopper, what's that?
 
 [Kate indicates Dan's bag.]
 
-DAN: This? Uh... it's... just borrowed this.
+FARADAY: This? Uh... it's... just borrowed this.
 
 KATE: Mind if I take a look?
 
@@ -708,13 +708,13 @@ WOMAN'S AUTOMATED VOICE: --will result in contamination.
 
 [The suited figure whirls around, startled. It's Dan. His voice muffles, filtered, through a gas mask.]
 
-DAN: Juliet. What are you doing here? 
+FARADAY: Juliet. What are you doing here? 
 
 WOMAN'S AUTOMATED VOICE: Final warning--manual override failed.
 
 JULIET: Step away from the computer.
 
-DAN: I'm so sorry. I can't do that.
+FARADAY: I'm so sorry. I can't do that.
 
 WOMAN'S AUTOMATED VOICE: Manual override failed. Countermeasures will begin.
 
@@ -728,7 +728,7 @@ WOMAN'S AUTOMATED VOICE: One minute to contamination.
 
 JULIET: You wanna release the gas? You'll die with the rest of us.
 
-DAN: No, no, no. I--I'm not trying to release them. I'm trying to--I'm trying to render it inert. Juliet, I just wanna make it safe.
+FARADAY: No, no, no. I--I'm not trying to release them. I'm trying to--I'm trying to render it inert. Juliet, I just wanna make it safe.
 
 [A second suited figure hits Juliet from behind, on the back, hard, with a metal pipe. Juliet is knocked to the ground. The gun slides across the floor.]
 
@@ -752,11 +752,11 @@ WOMAN'S AUTOMATED VOICE: Warning--contamination imminent. Evacuate immediately.
 
 JULIET: Aah!
 
-DAN: Hey!
+FARADAY: Hey!
 
 [An alarm continues blaring. Juliet unmasks Charlotte, distracting her long enough to reach for the gun, just beyond her fingertips. Grunting, she punches Charlotte off of her. Charlotte's body hits into some equipment and she falls to the floor.]
 
-DAN: Stop!
+FARADAY: Stop!
 
 [The alarm continues blaring and error messages continue to appear on the monitor as Dan's rapid typing on keyboard persists. Juliet stands up with the gun and points it at the defeated Charlotte. The clock on the screen goes past 20.]
 
@@ -776,11 +776,11 @@ WOMAN'S AUTOMATED VOICE: 10 seconds to contamination.
 
 CHARLOTTE: Daniel!
 
-DAN: Yeah, yeah! I'm trying.
+FARADAY: Yeah, yeah! I'm trying.
 
 [He continues typing commands in desperately.]
 
-DAN: Come on.
+FARADAY: Come on.
 
 [The alarm blares rapidly.]
 
@@ -788,7 +788,7 @@ WOMAN'S AUTOMATED VOICE: contamination in 5... 4... 3... 2...
 
 [With one second left, the alarm stops. The computer screen returns Daniel's final, successful, commands, "set valve BC22 = open" with the message "VALVE BC22 REPORTS OPEN", and "master caution reset", with the message "MASTER CAUTION RESET - SYSTEM PRESSURE WITHIN NORM PARAM - TANK INTEGRITY TESTS REPORT SECURE". An electrical whirring slows, powering down. Daniel's rapid typing stops. He looks around. Juliet lowers her gun. A loud mechanical hissing indicates the relief of pressure of gasses. The indicator on the bar on the monitor descends from the red into the green. A deep, descending electrical humming. Charlotte laughs nervously. Daniel pants, chuckles.]
 
-DAN: That... that was a close one.
+FARADAY: That... that was a close one.
 
 [Juliet wipes her face.]
 

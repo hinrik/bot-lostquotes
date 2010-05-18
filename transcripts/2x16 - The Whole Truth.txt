@@ -82,27 +82,27 @@ JIN: [Subtitle: Now you have no reason to be out here. Shall we go back now? ]
 
 LOCKE: You were running like the devil's chasing you.
 
-ANA: Maybe he is.
+ANA LUCIA: Maybe he is.
 
 LOCKE: Good for you, keeping in shape.
 
-ANA: What do you want, Locke?
+ANA LUCIA: What do you want, Locke?
 
 LOCKE: What do I want?
 
-ANA: I've been here over a week -- you've never said 2 words to me. And now you're sitting outside my tent?
+ANA LUCIA: I've been here over a week -- you've never said 2 words to me. And now you're sitting outside my tent?
 
 LOCKE: We've got a man locked up down in the Hatch. There's a possibility he's one of them -- the Others.
 
-ANA: Who's we?
+ANA LUCIA: Who's we?
 
 LOCKE: Me and Jack. He's keeping watch right now.
 
-ANA: How long's he been down there?
+ANA LUCIA: How long's he been down there?
 
 LOCKE: 3 days. I'd like you to talk with him. You have experience with the Others. You were a cop. Seems to me you're the most qualified to figure out if this man's telling the truth.
 
-ANA: Does Jack know you're coming to me with this?
+ANA LUCIA: Does Jack know you're coming to me with this?
 
 LOCKE: We've got a serious problem, Ana Lucia -- all of us. I'm taking the necessary steps to solve it. I don't need Jack's permission to talk with you because right now there's a man sitting in a room in my hatch and I want him out.
 
@@ -226,23 +226,23 @@ LOCKE: I already did. She's in there with him now.
 
 GALE: Were you on the plane, too?
 
-ANA: I was in the tail section. We crashed on the other side of the Island.
+ANA LUCIA: I was in the tail section. We crashed on the other side of the Island.
 
 GALE: You walked across all the way here? That must have been fun.
 
-ANA: It had its moments. So, are you going to tell me your story, Henry?
+ANA LUCIA: It had its moments. So, are you going to tell me your story, Henry?
 
 GALE: Why bother, I've already told it to everyone -- Jack, Locke, the big black guy that cut off his beard in front of me. Oh, yeah, and my buddy, Sayid. You can see how much he liked my story.
 
-ANA: So how about you try me.
+ANA LUCIA: So how about you try me.
 
 GALE: I don't mean to be ungrateful, but why are you going to help me get out of here?
 
-ANA: On the other side of the Island there was this guy with us. I was 100 percent convinced that he wasn't on the plane. So I dug a whole and I threw him in it.
+ANA LUCIA: On the other side of the Island there was this guy with us. I was 100 percent convinced that he wasn't on the plane. So I dug a whole and I threw him in it.
 
 GALE: And what happened?
 
-ANA: I was wrong. And now he's dead. But good news for you Henry -- I don't make the same mistake twice. So how about you tell me your story?
+ANA LUCIA: I was wrong. And now he's dead. But good news for you Henry -- I don't make the same mistake twice. So how about you tell me your story?
 
 [We see Sawyer reading a book, Sun approaches.]
 
@@ -288,31 +288,31 @@ LOCKE: How do you know she hasn't snapped his?
 
 [In the armory.]
 
-ANA: So let me get this straight -- you and your wife travel around the world and crash here in a smiley-face balloon? Then she dies. You get captured by a French chick who brings you here, and then they lock you up.
+ANA LUCIA: So let me get this straight -- you and your wife travel around the world and crash here in a smiley-face balloon? Then she dies. You get captured by a French chick who brings you here, and then they lock you up.
 
 GALE: It sounds kind of silly when you say it like that.
 
-ANA: Why don't you have a beard?
+ANA LUCIA: Why don't you have a beard?
 
 GALE: Because I shaved -- because I needed something normal.
 
-ANA: Okay, so why don't you draw me a map to your balloon? We'll go out there, we'll find it, and everybody will believe you.
+ANA LUCIA: Okay, so why don't you draw me a map to your balloon? We'll go out there, we'll find it, and everybody will believe you.
 
 GALE: That's what they all keep asking me to do -- draw a map. And if I mess up they'll crucify me.
 
-ANA: You flew around the world in a balloon and you don't think you can draw up a good map?
+ANA LUCIA: You flew around the world in a balloon and you don't think you can draw up a good map?
 
 GALE: Air travel -- it's a different animal. It's about wind currents and...
 
-ANA: Do you or do you not know where it is?
+ANA LUCIA: Do you or do you not know where it is?
 
 GALE: Yeah, I know where it is. I went back there to bury my wife.
 
-ANA: Why'd you do that?
+ANA LUCIA: Why'd you do that?
 
 GALE: Because our balloon was the closest thing we had to home. You people have been looking for someone to punish for everything that's happened to you -- someone to blame -- and now you've got him. It doesn't matter what I do, I'm dead already.
 
-ANA: You draw up that map, Henry. I'll find your balloon. But if you don't, things are going to play out just like you said.
+ANA LUCIA: You draw up that map, Henry. I'll find your balloon. But if you don't, things are going to play out just like you said.
 
 [We see Sun walking stealthily through the jungle. She stops and pulls out the pregnancy test. Suddenly Hurley appears holding a partially eaten Apollo bar. Sun quickly hides the test behind her back.]
 
@@ -354,23 +354,23 @@ SUN: [Subtitle: Why would I keep something like this from you? Oh, yes. I was tr
 
 [Back on the Island we see Jack and Locke in the Hatch. We hear Ana bang on the armory door.]
 
-ANA: Coming out.
+ANA LUCIA: Coming out.
 
 [Jack opens the door for her.]
 
-ANA: He told me the same story he told you.
+ANA LUCIA: He told me the same story he told you.
 
 LOCKE: You believe him?
 
-ANA: I don't know yet. I need more time with him.
+ANA LUCIA: I don't know yet. I need more time with him.
 
 LOCKE: He's all yours.
 
-ANA: Tomorrow. I want to give him some time to think. [to Jack] If that's okay with you.
+ANA LUCIA: Tomorrow. I want to give him some time to think. [to Jack] If that's okay with you.
 
 JACK: I didn't tell anyone, Ana.
 
-ANA: No worries, man.
+ANA LUCIA: No worries, man.
 
 [We see Sayid and Charlie building something out of bamboo at the beach.]
 
@@ -378,43 +378,43 @@ CHARLIE: A bit large for a dining room table, isn't it?
 
 SAYID: If we cut them in two, it will suit the purpose.
 
-ANA: [entering] Sayid, can I talk to you?
+ANA LUCIA: [entering] Sayid, can I talk to you?
 
 SAYID: Of course.
 
-ANA: Alone?
+ANA LUCIA: Alone?
 
 SAYID: Whatever you need to say you can say it here.
 
-ANA: It's about the Hatch.
+ANA LUCIA: It's about the Hatch.
 
 CHARLIE: You mean the guy locked in the closet there? What about him?
 
 [Ana pulls a map out of her pocket and hands it to Sayid.]
 
-ANA: It's to his balloon.
+ANA LUCIA: It's to his balloon.
 
 SAYID: How did you get him to do this?
 
-ANA: I asked nicely.
+ANA LUCIA: I asked nicely.
 
 SAYID: Do Jack and Locke know about this?
 
-ANA: Jack and Locke are a little too busy worrying about Locke and Jack. All I want to know is if this guy's telling the truth.
+ANA LUCIA: Jack and Locke are a little too busy worrying about Locke and Jack. All I want to know is if this guy's telling the truth.
 
 SAYID: Why come to me?
 
-ANA: Judging from what you did to his face that's what you want, too.
+ANA LUCIA: Judging from what you did to his face that's what you want, too.
 
 SAYID: This is at least a day's walk.
 
-ANA: Then we should get going.
+ANA LUCIA: Then we should get going.
 
 [COMMERCIAL BREAK]
 
 [We see Ana, Sayid and Charlie walking across a stream. Charlie stumbles and Ana reaches to help.]
 
-ANA: You okay?
+ANA LUCIA: You okay?
 
 CHARLIE: I'm alright. Thanks.
 
@@ -422,11 +422,11 @@ CHARLIE: I'm alright. Thanks.
 
 SAYID: [pointing] That cliff there appears to be this [showing the spot on the map].
 
-ANA: Score one for Henry.
+ANA LUCIA: Score one for Henry.
 
 SAYID: Pointing out a geographical touchstone does not mean he's leading us to a balloon.
 
-ANA: Maybe not, but at least we're on the right island.
+ANA LUCIA: Maybe not, but at least we're on the right island.
 
 [Sayid walks off.]
 
@@ -436,11 +436,11 @@ CHARLIE: Humor's not his strong suit. [Ana doesn't respond] And I'm saying this 
 
 CHARLIE: You looking at my bum?
 
-ANA: No, I'm looking at your gun.
+ANA LUCIA: No, I'm looking at your gun.
 
 CHARLIE: My what?
 
-ANA: Maybe you should give the gun to somebody who knows how to use it.
+ANA LUCIA: Maybe you should give the gun to somebody who knows how to use it.
 
 CHARLIE: Maybe I will. As I recall, the last time you had a gun you murdered someone.
 
@@ -528,11 +528,11 @@ JAE: I'm not saying you should stay for Jin.
 
 [Back on the Island we see Sayid sitting at a campfire. Charlie is sleeping. Ana enters.]
 
-ANA: Do you mind?
+ANA LUCIA: Do you mind?
 
 SAYID: You should sleep while you can.
 
-ANA: Yeah, I can't sleep. People don't like me. I tried to get them to most of my life. I guess I just gave up a while back. I mean, I am what I am. But you -- you've got a good reason to hate me. I'm sorry. I'm sorry for what I did.
+ANA LUCIA: Yeah, I can't sleep. People don't like me. I tried to get them to most of my life. I guess I just gave up a while back. I mean, I am what I am. But you -- you've got a good reason to hate me. I'm sorry. I'm sorry for what I did.
 
 SAYID: You were trying to protect your people. It wasn't you that killed Shannon; it was them. And once we find out he is one of them then something will have to be done.
 
@@ -540,11 +540,11 @@ SAYID: You were trying to protect your people. It wasn't you that killed Shannon
 
 [We see Sayid watching Ana sleep.]
 
-ANA: [waking] What?!
+ANA LUCIA: [waking] What?!
 
 SAYID: Nothing.
 
-ANA: It's going to rain.
+ANA LUCIA: It's going to rain.
 
 SAYID: We should get moving.
 
@@ -562,11 +562,11 @@ CHARLIE: This balloon would be rather large, right?
 
 SAYID: Why am I not surprised?
 
-ANA: We need to look some more.
+ANA LUCIA: We need to look some more.
 
 SAYID: This is where he said it would be.
 
-ANA: If I'm going to back your play on this, Sayid, we need to be sure.
+ANA LUCIA: If I'm going to back your play on this, Sayid, we need to be sure.
 
 SAYID: I'll divide the area into 3 grids, so search as thoroughly as you please.
 

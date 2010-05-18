@@ -30,7 +30,7 @@ DIRECTOR: Morning. Here you go, Doc.
 
 [The hairy-chinned director tries to hand the man pages.]
 
-CHANG: I don't need a script. Let's go. I don't have all day.
+DR. CHANG: I don't need a script. Let's go. I don't have all day.
 
 [A sound man preps a boom mic, a cameraman readies a camera, and a wardrobe woman, with a choice of tan tweed jacket or a white DHARMA lab coat with a Swan logo on it, hands Dr. Chang the lab coat. This barracks building is, for today, a bustling makeshift film set. Chang puts on the coat and sits down in a leather chair.]
 
@@ -42,13 +42,13 @@ DIRECTOR: Okay. DHARMA orientation film number two, take one.
 
 DIRECTOR: And... action.
 
-CHANG: Hello. I'm Dr. Marvin Candle, and this is the orientation film for station two, the Arrow. Given your specific area of expertise, you should find it no surprise that this station's primary purpose is to develop defensive strategies and gather intelligence on the island's hostile indigenous population--
+DR. CHANG: Hello. I'm Dr. Marvin Candle, and this is the orientation film for station two, the Arrow. Given your specific area of expertise, you should find it no surprise that this station's primary purpose is to develop defensive strategies and gather intelligence on the island's hostile indigenous population--
 
 [The door bangs open. A man in a hardhat bursts through.]
 
 MAN: Dr. Chang! Dr. Chang?
 
-CHANG: Damn it! What the hell?!
+DR. CHANG: Damn it! What the hell?!
 
 DIRECTOR: Cut!
 
@@ -60,7 +60,7 @@ MAN: Sir, we got a problem down at the Orchid.
 
 FOREMAN: Over here. We were cutting through the rock, right on your specs. That's when the drill melted.
 
-CHANG: The drill melted?
+DR. CHANG: The drill melted?
 
 FOREMAN: Yeah, yeah. 3 meters in. We went through six carbon drill bits, and the last one just fried.
 
@@ -72,19 +72,19 @@ FOREMAN: Then my operator starts grabbing his head and freaking out. We sonar-im
 
 FOREMAN: There's something in there. And the only way to get to it is to lay charges here and here and blast through it and take a look--
 
-CHANG: Under no circumstances! This station is being built here because of its proximity to what we believe to be an almost limitless energy. And that energy, once we can harness it correctly, it's going to allow us to manipulate time.
+DR. CHANG: Under no circumstances! This station is being built here because of its proximity to what we believe to be an almost limitless energy. And that energy, once we can harness it correctly, it's going to allow us to manipulate time.
 
 FOREMAN: [Chuckles] Right. Okay, so, what? We're gonna go back and kill Hitler?
 
-CHANG: Don't be absurd. There are rules, rules that can't be broken.
+DR. CHANG: Don't be absurd. There are rules, rules that can't be broken.
 
 FOREMAN: So what do you want me to do?
 
-CHANG: You're gonna do nothing. If you drill even 1 centimeter further, you risk releasing that energy. If that were to happen...
+DR. CHANG: You're gonna do nothing. If you drill even 1 centimeter further, you risk releasing that energy. If that were to happen...
 
 [Chang looks at the fallen workman and the blood all over his face.]
 
-CHANG: ...God help us all.
+DR. CHANG: ...God help us all.
 
 [Chang hands his hardhat to the foreman and takes off back down the tunnel toward the elevator.]
 
@@ -94,7 +94,7 @@ FOREMAN: Come on. Let's go.
 
 [As Chang charges down the tunnel, he brushes shoulders with a hard-hatted construction worker traveling the opposite direction. The worker carries a pressurized tank of gas.]
 
-CHANG: Watch yourself!
+DR. CHANG: Watch yourself!
 
 TANK CARRYING WORKER: Sorry, sir. It won't happen again.
 

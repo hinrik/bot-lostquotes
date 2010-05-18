@@ -90,7 +90,7 @@ LOCKE: Does that dish still work?
 
 SAYID: A satellite dish of that size would have broadcasting capabilities for thousands of miles. Danielle, you once mentioned a radio tower. Is this it?
 
-ROUSSEAU: I have never been here before.
+DANIELLE: I have never been here before.
 
 KATE: The man in the house, you said you’ve seen him before?
 
@@ -106,7 +106,7 @@ SAYID: If I’m unarmed, he won’t feel threatened. In case he is threatened, y
 
 KATE: Where are you going?
 
-ROUSSEAU: I have no interest in that man inside the house. I have survived on the island precisely by avoiding these types of encounters. I’ll wait for you by the stream, for those of you who survive.
+DANIELLE: I have no interest in that man inside the house. I have survived on the island precisely by avoiding these types of encounters. I’ll wait for you by the stream, for those of you who survive.
 
 [FLASHBACK]
 
@@ -606,7 +606,7 @@ SAYID: The purge? In which a group of scientists attacked your people?
 
 MIKHAIL: Believe what you want, but that is what happened.
 
-ROUSSEAU: Your friends, did he kill them?
+DANIELLE: Your friends, did he kill them?
 
 SAYID: No. They are collecting whatever is useful from the farmhouse. And now we have our ticket to where The Others live, where we will find your daughter, and Jack, and finally, perhaps, a way home.
 
@@ -616,7 +616,7 @@ SAYID: I didn’t say you were our ticket, did I? [He pulls out a map from his b
 
 MIKHAIL: There will come a time when your guard is down. And when it is, I will not hesitate a moment before killing you. You should know this because—
 
-ROUSSEAU: He is making an excellent point. You have a map. Why keep him alive?
+DANIELLE: He is making an excellent point. You have a map. Why keep him alive?
 
 [FLASHBACK]
 
@@ -634,7 +634,7 @@ AMIRA: We are all capable of doing what those children did to this cat. But I wi
 
 [Cuts back to the farmhouse where Rousseau has a gun to Mikhail.]
 
-ROUSSEAU: We should kill him, Sayid. He already said he was going to kill us.
+DANIELLE: We should kill him, Sayid. He already said he was going to kill us.
 
 SAYID: No. He’s my prisoner. I will decide his fate.
 

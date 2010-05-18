@@ -124,11 +124,11 @@ SAYID: Desmond. The helicopter's here.
 
 KEAMY: All right, get him on the litter. Careful with him! Get him down over there. Be careful. Okay guys, unload it. Come on. Pick it up, pick it up. Let's go.
 
-RAY: What did this to him?
+DR. RAY: What did this to him?
 
 KEAMY: (Sighs) A black pillar of smoke threw him 50 feet in the air... ripped his guts out.
 
-RAY: What?
+DR. RAY: What?
 
 [KEAMY approaches SAYID]
 
@@ -360,7 +360,7 @@ RICHARD: I want you to look at these things... and think about 'em.
 
 RICHARD: Okay, now tell me, John, which of these things belong to you?
 
-JOHN: To--to keep?
+LOCKE: To--to keep?
 
 RICHARD: No, no, John. Which of these things belong to you already?
 
@@ -370,7 +370,7 @@ RICHARD: Are you sure the knife belongs to you, John?
 
 [John nods]
 
-RICAHRD: You sure about that?
+RICHARD: You sure about that?
 
 [sighs]
 
@@ -530,7 +530,7 @@ BEN: You're certainly not.
 
 [Pounding]
 
-JOHN: Somebody, let me out! Please let me out. Please, somebody, let me--
+LOCKE: Somebody, let me out! Please let me out. Please, somebody, let me--
 
 [A science teacher named Gellert releases 16-year-old John Locke from his prison.]
 
@@ -538,7 +538,7 @@ GELLERT: John, you okay?
 
 [Onlooking cheerleaders laugh perversely at John's predicament.]
 
-JOHN: I'm fine. I'm fine.
+LOCKE: I'm fine. I'm fine.
 
 GELLERT: Get to class, ladies. Tardy bell just rang. John, you're bleeding. Come on. Let's go to the nurse's office.
 
@@ -546,27 +546,27 @@ GELLERT: Get to class, ladies. Tardy bell just rang. John, you're bleeding. Come
 
 GELLERT: You wanna talk about it?
 
-JOHN: No.
+LOCKE: No.
 
 GELLERT: I know you're probably upset right now, but I do have some exciting news for you. I got a call from Portland recently. There's a company up there doing some very exciting things in chemistry and new technologies. They're called Mittelos Laboratories. I spoke with a Dr. Alpert. He's very interested in finding young, bright minds to enter into these new fields of science. They want you to go to their camp this summer.
 
-JOHN: Science camp?
+LOCKE: Science camp?
 
 GELLERT: Yes.
 
-JOHN: Don't you understand that things like science camp are the reason why I get stuffed into lockers?
+LOCKE: Don't you understand that things like science camp are the reason why I get stuffed into lockers?
 
 GELLERT: John, this is a great opportunity.
 
-JOHN: How do they even know about me?
+LOCKE: How do they even know about me?
 
 GELLERT: Well, they must have sent a rep to the science fair--your display at Costa Mesa.
 
-JOHN: I'm not a scientist! I like boxing and fishing and cars. I like sports!
+LOCKE: I'm not a scientist! I like boxing and fishing and cars. I like sports!
 
 GELLERT: I'm gonna tell you something--something I wish someone had told me at your age. You might not want to be that guy in the labs surrounded by test tubes and beakers, but that's who you are, John. You can't be the prom king. You can't be the quarterback. You can't be a superhero.
 
-JOHN: Don't tell me what I can't do.
+LOCKE: Don't tell me what I can't do.
 
 [John smacks the pamphlet down on the table and leaves.]
 
@@ -702,11 +702,11 @@ ABADDON: When you're ready, Mr. Locke... (presses button) you'll listen to what 
 
 OMAR: Hey, doc. Wanna hear something weird?
 
-RAY: Ah, sure.
+DR. RAY: Ah, sure.
 
 OMAR: You know that morse code message that I got from the beach? It said that the doctor washed up on the shore with his throat slit.
 
-RAY: But I'm the doctor.
+DR. RAY: But I'm the doctor.
 
 OMAR: Crazy, right?
 

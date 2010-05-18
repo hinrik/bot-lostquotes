@@ -58,15 +58,15 @@ JACK: [Mutters] Damn it.
 
 JACK: Danielle. How much further?
 
-ROUSSEAU: About an hour.
+DANIELLE: About an hour.
 
 JACK: The radio tower, when was the last time you were there?
 
-ROUSSEAU: The day I recorded the message. I'll take you to the tower, but I'm not leaving here.
+DANIELLE: The day I recorded the message. I'll take you to the tower, but I'm not leaving here.
 
 JACK: What?
 
-ROUSSEAU: There's no place for me back there. This is my home now.
+DANIELLE: There's no place for me back there. This is my home now.
 
 [As they walk, they see Ben and Alex stood right ahead of them. Everyone stops, Jack steps forward]
 
@@ -218,7 +218,7 @@ BEN: There's something you need to hear. Please.
 
 BEN: Tom, are you there?
 
-TOM: Yes, I'm here.
+MR. FRIENDLY: Yes, I'm here.
 
 BEN: [To Jack] Your plan killed seven of my people, but the one's that you failed to kill are now holding your friends. Jin, Sayid, Bernard. At gunpoint.
 
@@ -236,7 +236,7 @@ JACK: And what's to stop me from snapping your neck?
 
 BEN: [Quickly] Tom, unless you hear my voice in one minute, shoot all three of them.
 
-TOM: Got it.
+MR. FRIENDLY: Got it.
 
 [Ben looks at his watch]
 
@@ -278,7 +278,7 @@ BEN: I'm so sorry, Jack.
 
 JACK: Tom. Are you there?
 
-TOM: Yeah, Jack, I hear you.
+MR. FRIENDLY: Yeah, Jack, I hear you.
 
 JACK: I'm going to lead my people up to the radio tower. And I'm gonna make a call. And I'm gonna get em all rescued, every one of them. And then I'm gonna come find you, and I'm gonna kill ya.
 
@@ -334,7 +334,7 @@ BEN: [Sighs] Alex. This is your mother.
 
 [They stare at each other, Rousseau holding back tears]
 
-ROUSSEAU: I'll help you tie him up.
+DANIELLE: I'll help you tie him up.
 
 [Kate catches up to Jack]
 
@@ -358,7 +358,7 @@ JACK: Because I want him to see it. I want him to experience the moment that we 
 
 RYAN: It was an order, Tom, we had to follow it.
 
-TOM: Ben doesn't know what the hell he's talking about, he's lost it! I mean look at what they did to us. Instead of putting three bullets in the damned sand, we should have killed them for real.
+MR. FRIENDLY: Ben doesn't know what the hell he's talking about, he's lost it! I mean look at what they did to us. Instead of putting three bullets in the damned sand, we should have killed them for real.
 
 [Sayid, Jin and Bernard are still tied up with a third Other pointing his gun at them]
 
@@ -388,7 +388,7 @@ SAWYER: Stay in the bus, Hugo.
 
 JULIET: [Points the gun at him] Stay right there, Tom.
 
-TOM: [Turns to Sawyer] OK. I give up.
+MR. FRIENDLY: [Turns to Sawyer] OK. I give up.
 
 [Sawyer pauses, then shoots him in the chest, surprising Juliet]
 
@@ -608,13 +608,13 @@ NAOMI: What's this?
 
 JACK: It's Rousseau's message, it's still blocking the signal.
 
-ROUSSEAU: It doesn't matter. We're here.
+DANIELLE: It doesn't matter. We're here.
 
 VOICE: [On phone] Iteration one, seven, five...
 
 [The group trek up a hill to see the radio tower dominating the sky. Inside the French message can be heard playing on loop. The recording is from a machine in the room by a speaker]
 
-ROUSSEAU: I recorded this sixteen years ago. [To Alex] Three days before you were born. I guess we don't need it anymore.
+DANIELLE: I recorded this sixteen years ago. [To Alex] Three days before you were born. I guess we don't need it anymore.
 
 [She turns off the recording and removes the tape]
 

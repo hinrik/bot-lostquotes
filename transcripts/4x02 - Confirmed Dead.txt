@@ -34,7 +34,7 @@ NEWSCASTER: This haunting footage comes to us from the Christiane I, a salvage v
 
 WOMAN 1: How do you want your eggs, Dan? So what happened, they find that missing plane? Dan? Dan? Dan, why are you so upset?
 
-DAN: I don't know.
+FARADAY: I don't know.
 
 [Cut to a helicopter. Controls are going haywire, a vicious storm is outside]
 
@@ -54,19 +54,19 @@ PILOT: Everybody out now!
 
 MAN 2: Hey genius, go!
 
-DAN: No!
+FARADAY: No!
 
 MAN 2: Go!
 
-DAN: No!
+FARADAY: No!
 
 [Dan falls out of the plane. He releases his parachute and lands on the Island. He removes his kit, hears noises, grabs his gun. Jack and Kate run out]
 
-DAN: Hey there. Are you Jack?
+FARADAY: Hey there. Are you Jack?
 
 JACK: Yeah, I'm Jack. Who are you?
 
-DAN: I'm Daniel Faraday. I'm here to rescue you.
+FARADAY: I'm Daniel Faraday. I'm here to rescue you.
 
 
 [MAIN CREDITS]
@@ -76,33 +76,33 @@ DAN: I'm Daniel Faraday. I'm here to rescue you.
 
 JACK: Hey Dan, the chopper, how many of you were on it?
 
-DAN: Er, four including me.
+FARADAY: Er, four including me.
 
 KATE: So what happened to the rest of them?
 
-DAN: Yeah yeah I er, I have no idea, I dunno how many were able to get out before it went down, I just, I jumped and I lost my er, what do you call it, my pack, and my phone was in my pack, if I had my phone I would just er...
+FARADAY: Yeah yeah I er, I have no idea, I dunno how many were able to get out before it went down, I just, I jumped and I lost my er, what do you call it, my pack, and my phone was in my pack, if I had my phone I would just er...
 
 KATE: We have a phone.
 
 [Kate and Jack show it to him]
 
-DAN: You have a phone.
+FARADAY: You have a phone.
 
 [She gives it to him]
 
-DAN: Thank you.
+FARADAY: Thank you.
 
 MINKOWSKI: Minkowski.
 
-DAN: Hey, George. It's Daniel.
+FARADAY: Hey, George. It's Daniel.
 
 MINKOWSKI: Dan, the chopper comm went dead, what the hell happened up there?
 
-DAN: Yeah I dunno, George, there was an electrical storm, all the instruments they, I think they went down. But listen I made contact with some of the survivors and we were just er...
+FARADAY: Yeah I dunno, George, there was an electrical storm, all the instruments they, I think they went down. But listen I made contact with some of the survivors and we were just er...
 
 MINKOWSKI: Dan, am I on speaker?
 
-DAN: [To Jack and Kate] Would you give me just one sec...
+FARADAY: [To Jack and Kate] Would you give me just one sec...
 
 [He steps away and talks to Minkowski privately]
 
@@ -112,15 +112,15 @@ JACK: You sure about that?
 
 [Jack motions to Dan. They see he has a gun tucked into his trousers]
 
-DAN: [Returning] Ok, so the boat hasn't heard from anybody else yet but er, their GPS transponders, my team and I are all wearing these, the transponders will send the locations back to the ship, and then the ship will send all locations back into the phones. Er, oh there we are, there's my signal right there, and hopefully we'll get the signals for the rest of the team soon. Will you help me find em?
+FARADAY: [Returning] Ok, so the boat hasn't heard from anybody else yet but er, their GPS transponders, my team and I are all wearing these, the transponders will send the locations back to the ship, and then the ship will send all locations back into the phones. Er, oh there we are, there's my signal right there, and hopefully we'll get the signals for the rest of the team soon. Will you help me find em?
 
 JACK: Absolutely.
 
-DAN: Ok thank you. Hey, where are the rest of your people?
+FARADAY: Ok thank you. Hey, where are the rest of your people?
 
 KATE: Most of them are back at the beach.
 
-DAN: Most of them?
+FARADAY: Most of them?
 
 [In the jungle, its day as Locke stands in the rain. Hurley approaches]
 
@@ -182,31 +182,31 @@ JULIET: Because he's a liar. And he's trying to scare us, that's what Ben does. 
 
 KATE: Hey. That from your chopper?
 
-DAN: Er, yeah yeah yeah, that er, they had to reduce the weight load when we started going down. I guess that's why they pushed me out.
+FARADAY: Er, yeah yeah yeah, that er, they had to reduce the weight load when we started going down. I guess that's why they pushed me out.
 
 [Jack pulls out a gas mask from the box]
 
 JACK: What's this for?
 
-DAN: Erm. I'm not in charge of packing so.
+FARADAY: Erm. I'm not in charge of packing so.
 
 JACK: You're not, huh?
 
-DAN: We should er...
+FARADAY: We should er...
 
 JACK: Hey, Daniel. Why did you bring the gun?
 
-DAN: Er, as a precaution.
+FARADAY: Er, as a precaution.
 
 JACK: Precaution against what?
 
-DAN: Er ok, see, erm, rescuing you and your people. Can't really say its our primary objective.
+FARADAY: Er ok, see, erm, rescuing you and your people. Can't really say its our primary objective.
 
 JACK: Then what is?
 
 [The phone picks up a signal]
 
-DAN: Its Miles, its Miles, come on!
+FARADAY: Its Miles, its Miles, come on!
 
 [In the jungle, Locke continues to lead his group]
 
@@ -232,7 +232,7 @@ LOCKE: The bullet went in one side, came out the other. I'd probably be dead if 
 
 [Meanwhile, Dan, Jack and Kate are closing in on Miles. They near the shore and see a parachutist]
 
-DAN: Down there. Hey Miles! Miles!
+FARADAY: Down there. Hey Miles! Miles!
 
 [Jack pulls of his helmet. The man appears unconscious]
 
@@ -242,7 +242,7 @@ KATE: He dead?
 
 MILES: Back up handsome.
 
-DAN: Hey, whoa whoa whoa , Miles. Take it easy, its OK. They're here to help us. It's OK Miles, they're just trying to help.
+FARADAY: Hey, whoa whoa whoa , Miles. Take it easy, its OK. They're here to help us. It's OK Miles, they're just trying to help.
 
 [Kate tries for Dan's gun]
 
@@ -302,7 +302,7 @@ GARDNER: Thank you. Thank you.
 
 [Back in realtime, Miles still has a gun to Jack]
 
-DAN: Miles, Miles, hey hey hey, what you doing? What are you doing? These are good people.
+FARADAY: Miles, Miles, hey hey hey, what you doing? What are you doing? These are good people.
 
 MILES: Then why'd Naomi use the damn code? Yeah, you remember when she said tell my sister I love her, well she doesn't have a sister. That's what we're supposed to say if we get captured, have a gun to our heads. Like right now, Jack here would say tell my sister I love her, you get it?
 
@@ -310,7 +310,7 @@ JACK: We didn't kill your friend.
 
 MILES: Then take me to her body.
 
-DAN: Miles, what about Charlotte, what about Frank?
+FARADAY: Miles, what about Charlotte, what about Frank?
 
 MILES: Take me to Naomi!
 
@@ -376,11 +376,11 @@ SAWYER: It's only a matter of time before he gets us, Johnny, and I bet he's alr
 
 KATE: What is he doing?
 
-DAN: The light, is strange out here isn't it? It's kinda like, it doesn't scatter quite right.
+FARADAY: The light, is strange out here isn't it? It's kinda like, it doesn't scatter quite right.
 
 KATE: Dan, your name's Dan, right? Listen, Dan. I know that you don't want anybody to get hurt, right? So why don't you just put that away [looks at gun].
 
-DAN: Er because erm, Miles would kill me.
+FARADAY: Er because erm, Miles would kill me.
 
 KATE: We're just trying to help.
 
@@ -392,7 +392,7 @@ MILES: They didn't kill her. Happened like they said it did.
 
 [The phone beeps]
 
-DAN: Its Charlotte, only three kilometers from here.
+FARADAY: Its Charlotte, only three kilometers from here.
 
 MILES: Alright then, let's go get her.
 
@@ -480,15 +480,15 @@ JACK: I gave you that, wink.
 
 SAYID: What are your names?
 
-DAN: Er I'm Daniel Faraday, and this is Miles...
+FARADAY: Er I'm Daniel Faraday, and this is Miles...
 
 MILES: Don't tell him my last name.
 
-DAN: I guess it's just Miles.
+FARADAY: I guess it's just Miles.
 
 SAYID: What do you do for a living, Daniel?
 
-DAN: I'm a physicist. Well I guess you could call me a physicist, I don't really like being pigeon-holed into one...
+FARADAY: I'm a physicist. Well I guess you could call me a physicist, I don't really like being pigeon-holed into one...
 
 MILES: Dan, I swear to God you say one more word I'm gonna break your fingers.
 
@@ -568,7 +568,7 @@ JACK: She's running from something.
 
 SAYID: According to this, she's right here.
 
-DAN: Charlotte! Charlotte!
+FARADAY: Charlotte! Charlotte!
 
 [Something moves in the bushes]
 
@@ -596,33 +596,33 @@ TV REPORTER: ...recovery of the bodies will be next to impossible. We can only h
 
 FEMALE OPERATOR: National Transportation Safety Board, Oceanic hotline.
 
-FRANK: Yeah, let me speak to your supervisor.
+LAPIDUS: Yeah, let me speak to your supervisor.
 
 FEMALE OPERATOR: Yes sir, are you a family member of the deceased?
 
-FRANK: No I'm not, but I got some information on the crash, may I please speak to your supervisor.
+LAPIDUS: No I'm not, but I got some information on the crash, may I please speak to your supervisor.
 
 FEMALE OPERATOR: Sir, if you could just tell me...
 
-FRANK: Look I'm staring at the television right now, you're broadcasting footage of the wreckage and saying that that's the pilot Seth Norris.
+LAPIDUS: Look I'm staring at the television right now, you're broadcasting footage of the wreckage and saying that that's the pilot Seth Norris.
 
 FEMALE OPERATOR: Yes, sir?
 
-FRANK: Well that's not him.
+LAPIDUS: Well that's not him.
 
 FEMALE OPERATOR: [Pauses] Please hold.
 
 MALE VOICE: Who am I speaking with?
 
-FRANK: Doesn't matter who I am, you're showing footage of Seth Norris and that's not him, listen, this guy married his high school sweetheart at nineteen, he always wore his wedding ring and I'm telling you there's no ring on that body.
+LAPIDUS: Doesn't matter who I am, you're showing footage of Seth Norris and that's not him, listen, this guy married his high school sweetheart at nineteen, he always wore his wedding ring and I'm telling you there's no ring on that body.
 
 MALE VOICE: Sir it's likely the ring fell off...
 
-FRANK: I'm telling you, that is not him.
+LAPIDUS: I'm telling you, that is not him.
 
 MALE VOICE: How exactly is it that you know all about Captain Norris?
 
-FRANK: Because I was supposed to be flying Oceanic 815 on that day.
+LAPIDUS: Because I was supposed to be flying Oceanic 815 on that day.
 
 [In realtime, Frank is hurt and traipsing through the jungle. He climbs a hill, and at the top finds a cow with a bell on it. It strolls away, and Frank falls at the top of the hill. He gets his phone, which is smashed. Grabbing a flare gun, he fires it. Locke's group sees it]
 
@@ -664,31 +664,31 @@ CHARLOTTE: Vest. Vest.
 
 [Meanwhile, Jack and the group have found Frank, who is unconscious]
 
-DAN: Is he alive?
+FARADAY: Is he alive?
 
 JACK: I've got a pulse.
 
-DAN: Frank? Frank? Hey, hey. Frank?
+FARADAY: Frank? Frank? Hey, hey. Frank?
 
 [Frank wakes up]
 
-DAN: You OK?
+FARADAY: You OK?
 
 MILES: What happened?
 
-FRANK: We got struck by lightning.
+LAPIDUS: We got struck by lightning.
 
-DAN: Frank, where's Charlotte?
+FARADAY: Frank, where's Charlotte?
 
-FRANK: She bailed out, just before we went down. I don't know where she is.
+LAPIDUS: She bailed out, just before we went down. I don't know where she is.
 
 MILES: Where's the chopper?
 
-FRANK: I saw a cow.
+LAPIDUS: I saw a cow.
 
 MILES: Hey, hey, Lapidus, where's the chopper? Where did it crash?
 
-FRANK: Crash? The hell kind of pilot d'you think I am? I put her down safe and sound right over there.
+LAPIDUS: Crash? The hell kind of pilot d'you think I am? I put her down safe and sound right over there.
 
 [The survivors run and look over the ridge to see the chopper on the ground safely. Jack, Sayid and Kate all look on in awe]
 
@@ -762,13 +762,13 @@ REGINA: I gotta go.
 
 MILES: Wo wo wo what are you doing with her?
 
-DAN: We're taking her with us.
+FARADAY: We're taking her with us.
 
 MILES: What's the point, that's not Naomi, it's just meat.
 
-DAN: Miles, we can't just leave her here.
+FARADAY: Miles, we can't just leave her here.
 
-FRANK: [Shouting from a distance] Miles is right. We burned up most of the damned fuel flying around that storm. We barely got enough to get back to the freighter, we're not carrying any unnecessary weight. I'll take her on the next run. I promise, Dan.
+LAPIDUS: [Shouting from a distance] Miles is right. We burned up most of the damned fuel flying around that storm. We barely got enough to get back to the freighter, we're not carrying any unnecessary weight. I'll take her on the next run. I promise, Dan.
 
 JACK: There's a blanket over there by my backpack, would you get it?
 
@@ -776,31 +776,31 @@ KATE: Yeah.
 
 [Juliet tends to Frank's wounds]
 
-FRANK: Look as bad as it feels?
+LAPIDUS: Look as bad as it feels?
 
 JULIET: How bad does it feel?
 
-FRANK: [Laughs] What's your name again?
+LAPIDUS: [Laughs] What's your name again?
 
 JULIET: Juliet.
 
-FRANK: Juliet. Juliet what?
+LAPIDUS: Juliet. Juliet what?
 
 JULIET: Juliet Burke.
 
-FRANK: Juliet Burke. You weren't on that plane, were you?
+LAPIDUS: Juliet Burke. You weren't on that plane, were you?
 
 [Juliet pauses]
 
-FRANK: Miles!
+LAPIDUS: Miles!
 
 MILES: Yeah?
 
-FRANK: This is Juliet, and she was not on the plane.
+LAPIDUS: This is Juliet, and she was not on the plane.
 
 MILES: What? You sure?
 
-FRANK: You know how many times I studied that damn manifest? Believe me there's no Juliet Burke on that plane. She's a native.
+LAPIDUS: You know how many times I studied that damn manifest? Believe me there's no Juliet Burke on that plane. She's a native.
 
 MILES: [Approaching her] Really... where is he!!
 

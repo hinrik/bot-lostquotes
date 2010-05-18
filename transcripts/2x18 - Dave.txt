@@ -48,7 +48,7 @@ SUN: They found something. Come on!
 
 [Hurley and Libby follow and we see people grabbing food from the supply drop.]
 
-Charlie: Risotto. Nice.
+CHARLIE: Risotto. Nice.
 
 HURLEY: No.
 
@@ -260,7 +260,7 @@ GALE: If I told you about them -- you have no idea what he'll do.
 
 SAYID: He?
 
-ANA: You mean their leader -- the guy with the beard.
+ANA LUCIA: You mean their leader -- the guy with the beard.
 
 GALE: Him? He's no one. Nothing.
 
@@ -274,7 +274,7 @@ GALE: You don't understand.
 
 SAYID: [pulling a gun] Understand this --
 
-ANA: Hey.
+ANA LUCIA: Hey.
 
 SAYID: You have 3 seconds to answer my question. How many of you are there? 1 --
 
@@ -282,7 +282,7 @@ GALE: He'll kill me!
 
 SAYID: I'll kill you. [He pushes the slide back on the gun.] 2...
 
-ANA: Sayid!
+ANA LUCIA: Sayid!
 
 GALE: You can't do this! I am not a bad person!
 
@@ -290,7 +290,7 @@ SAYID: 3.
 
 [Ana pushes Sayid just as he pulls the trigger so that he misses Gale.]
 
-ANA: What the hell is wrong with you?
+ANA LUCIA: What the hell is wrong with you?
 
 LOCKE: [from the bunk bed] What's going on? I heard a gun shot.
 
@@ -298,7 +298,7 @@ JACK: [entering the armory] What happened?
 
 SAYID: He's a liar!
 
-ANA: [to Jack] It's fine, just get him out of here.
+ANA LUCIA: [to Jack] It's fine, just get him out of here.
 
 [Sayid and Jack exit the armory.]
 
@@ -310,7 +310,7 @@ JACK: [looking in at Locke] I've got it covered, John.
 
 GALE: [to Ana] Thank you.
 
-ANA: Shut up.
+ANA LUCIA: Shut up.
 
 [She locks Gale in the armory.]
 
@@ -766,11 +766,11 @@ HURLEY: Dave!!
 
 LOCKE: Jack not back yet?
 
-ANA: Nope. He's telling everyone at the beach that we've got one of them. Something tells me people have a lot of questions about our houseguest.
+ANA LUCIA: Nope. He's telling everyone at the beach that we've got one of them. Something tells me people have a lot of questions about our houseguest.
 
 LOCKE: I want to talk to him.
 
-ANA: I don't think that's on today's program.
+ANA LUCIA: I don't think that's on today's program.
 
 LOCKE: Well, all due respect, Ana Lucia, but I don't care what you think. [She just stares at him.] 5 minutes. I earned 5 minutes with him.
 

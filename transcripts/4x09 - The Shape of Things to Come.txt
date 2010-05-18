@@ -46,7 +46,7 @@ BERNARD: The dog was barking. I didn't see him.
 
 JACK: Do you know who this is?
 
-DANIEL: He was on our boat. He's the doctor.
+FARADAY: He was on our boat. He's the doctor.
 
 HURLEY: We're all gonna die.
 
@@ -234,25 +234,25 @@ JACK: Know anything about that?
 
 [Charlotte stays silent.]
 
-DANIEL: No. Uh, he was fine when I last saw him.
+FARADAY: No. Uh, he was fine when I last saw him.
 
 JACK: Which was when?
 
-DANIEL: When? "When" is kind of a relative term.
+FARADAY: When? "When" is kind of a relative term.
 
 CHARLOTTE: We don't know anything about this.
 
 JULIET: Any luck fixing the sat phone?
 
-DANIEL: Uh, yeah. Sorry, no. The, uh, the mic was... smashed up pretty good. Best-case scenario, we'd only be able to broadcast tone squelch. Beeps and boops.
+FARADAY: Uh, yeah. Sorry, no. The, uh, the mic was... smashed up pretty good. Best-case scenario, we'd only be able to broadcast tone squelch. Beeps and boops.
 
 BERNARD: Well, yeah, but you could still use it as sort of a telegraph, right?
 
-DANIEL: If I had some strips of ferrous metal, uh, a 9-volt battery clip and some... wiring.
+FARADAY: If I had some strips of ferrous metal, uh, a 9-volt battery clip and some... wiring.
 
 KATE: We got a bunch of stuff that we salvaged from the plane.
 
-DANIEL: Great.
+FARADAY: Great.
 
 KATE: I'll show you where it is.
 
@@ -426,7 +426,7 @@ SAWYER: Yeah, what's wrong with that? Sounds like a great plan to me. (To Locke)
 
 [The doorbell rings. Ben is saved by the bell as everyone turns to look at the door. They all point their guns. Locke runs to the door.]
 
-Ben: (Sing-song) I wouldn't if I were you.
+BEN: (Sing-song) I wouldn't if I were you.
 
 SAWYER: Shut up!
 
@@ -716,27 +716,27 @@ BEN: I have to say good-bye to my daughter, John.
 
 [On the table under the kitchen awning at the beach camp, Daniel taps on a jury-rigged telegraph key. Little electrical sparks inside the apparatus supplement the torchlight.]
 
-DANIEL: I can't believe it. Might actually have a signal.
+FARADAY: I can't believe it. Might actually have a signal.
 
 [Kate smiles approvingly.]
 
 JACK: What are you sending?
 
-DANIEL: (Tapping) "What... happened... to... the... doctor?"
+FARADAY: (Tapping) "What... happened... to... the... doctor?"
 
 [Dits and dahs come back in reply.]
 
-DANIEL: Okay. They didn't exactly say what happened to the doctor, but your friends are fine, and the helicopter's coming back in--in the morning.
+FARADAY: Okay. They didn't exactly say what happened to the doctor, but your friends are fine, and the helicopter's coming back in--in the morning.
 
 JACK: Well...
 
 BERNARD: He's lying. What the message said was, "What are you talking about? The doctor is fine."
 
-DANIEL: (Discomfited) You know Morse code.
+FARADAY: (Discomfited) You know Morse code.
 
 JACK: What does that mean, "The doctor is fine"?
 
-DANIEL: I don't know.
+FARADAY: I don't know.
 
 JACK: Why are you lying? Why did you say that the helicopters are coming back?
 
@@ -746,7 +746,7 @@ KATE: Jack.
 
 JACK: Were you ever... gonna take us off this island?
 
-DANIEL: ...No. No, no.
+FARADAY: ...No. No, no.
 
 [Jack looks like he is about to cry, then doubles over in pain.]
 

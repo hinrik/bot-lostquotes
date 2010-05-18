@@ -128,7 +128,7 @@ LOCKE: Who's your son?
 
 [--Locke lies on the ground with his eyes closed and the white light fades away. He awakes with a start to find himself alone on the desert floor. The wind howls. The pain of his broken leg returns to him and he groans. Then he gags, and turns over and spits up on the sand.]
 
-[Subtitle: Tunisia]
+[Title card: Tunisia]
 
 [Locke spits some grit out of his mouth and cries as he looks at his leg. It's bad. The bone sticks out through the flesh, and through the fabric of his pants.]
 
@@ -234,7 +234,7 @@ NURSE: عايشة، الدكتور مستعجل [Translation: Ayesha, the doctor
 
 [AYESHA says something to the nurse]
 
-NURSE (responding to Ayesha): آه [Translation: Yea]
+NURSE: [responding to Ayesha] آه [Translation: Yea]
 
 AYESHA: حاضر [Translation: Okay]
 

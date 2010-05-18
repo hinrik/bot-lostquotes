@@ -130,11 +130,11 @@ CHARLIE: Yeah, right.
 
 [By the tents, Jack and Juliet carefully unwrap and place the dynamite]
 
-ROUSSEAU: We need more wire so we can trigger these from a safe distance.
+DANIELLE: We need more wire so we can trigger these from a safe distance.
 
 JACK: I can get some people to start stripping the plane wreckage.
 
-ROUSSEAU: Good. I should be able to finish rigging these tents in the next twenty-four hours. We'll be ready by tomorrow night.
+DANIELLE: Good. I should be able to finish rigging these tents in the next twenty-four hours. We'll be ready by tomorrow night.
 
 [Jack and Juliet leave the tent as Sayid catches up to them]
 
@@ -152,7 +152,7 @@ SAYID: And I am trying to get us off this Island, Jack!
 
 SAYID: I can't transmit using this phone because Danielle's distress signal is overriding the frequency. [To Danielle] If you tell me where the radio tower is, I can go there, switch off your message, and call for help.
 
-ROUSSEAU: That signal has been playing for the last sixteen years and nobody has heard it. What makes you think that you'll have better luck?
+DANIELLE: That signal has been playing for the last sixteen years and nobody has heard it. What makes you think that you'll have better luck?
 
 SAYID: But Naomi's boat is only eighteen miles offshore. I know if we eliminate Danielle's signal, they will hear us.
 
@@ -478,7 +478,7 @@ BERNARD: Where? It's their Island; if they wanna kill us; they'll find us.
 
 JACK: The sun's gonna go down in a few hours. [To Rousseau] Do we have enough wire yet?
 
-ROUSSEAU: Not even close.
+DANIELLE: Not even close.
 
 JACK: We've gotta figure out a different way of setting the dynamite off.
 
@@ -496,7 +496,7 @@ HURLEY: Woo!
 
 KARL: Here. You can have mine too.
 
-ROUSSEAU: I'll be your third.
+DANIELLE: I'll be your third.
 
 JACK: We'll take your gun, but you're not staying here. You're gonna lead everyone to the radio tower. Everyone.
 

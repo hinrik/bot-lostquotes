@@ -52,7 +52,7 @@ SAYID: You’re not going anywhere. Will that helicopter fly?
 
 [SAYID walks towards FRANK.]
 
-FRANK: It’s what she does.
+LAPIDUS: It’s what she does.
 
 SAYID: Then you can take me to your ship.
 
@@ -64,13 +64,13 @@ SAYID: We did call these people to get us off this island, didn’t we?
 
 SAYID: Well?
 
-FRANK: We burned a lot of fuel coming in, it can’t carry much weight. I’ll take three of you.
+LAPIDUS: We burned a lot of fuel coming in, it can’t carry much weight. I’ll take three of you.
 
 MILES: In case you zoned out while you were tweezing your goatee, one of these yahoos took Charlotte prisoner.
 
 SAYID: I can bring her back. Safely. And if I do, will you take me to the ship.
 
-FRANK: Absolutely. You bring Charlotte back safe, and I will take you off this island.
+LAPIDUS: Absolutely. You bring Charlotte back safe, and I will take you off this island.
 
 [A man is teeing off on a golf course on a beach overlooking the ocean. The man is a longer-haired SAYID. A golf cart then approaches as SAYID walks towards his ball and sets his clubs down.
 
@@ -368,13 +368,13 @@ MILES: Hey. Let’s move out.
 
 [SAYID, KATE, and MILES leave into the jungle. JACK reaches for a bottle of water in the helicopter. FRANK is leaning into the front of the helicopter. JACK walks away from the helicopter.]
 
-FRANK: Hey, this guy Sayid – where’s he from?
+LAPIDUS: Hey, this guy Sayid – where’s he from?
 
 [JACK stops, turns towards FRANK.]
 
 JACK: Iraq.
 
-FRANK: Iraq? He’s just gonna go and work everything out? What was he, a diplomat?
+LAPIDUS: Iraq? He’s just gonna go and work everything out? What was he, a diplomat?
 
 JACK: (chuckles) No. No, he was a torturer.
 
@@ -448,59 +448,59 @@ SAYID: Let’s go. Strauss awaits.
 
 JACK: What’s his story?
 
-FRANK: Daniel?
+LAPIDUS: Daniel?
 
 JACK: Yeah.
 
-FRANK: Couldn’t tell ya. Half the stuff he says goes way over my head, the other half goes way, way over.
+LAPIDUS: Couldn’t tell ya. Half the stuff he says goes way over my head, the other half goes way, way over.
 
-DANIEL: Hey, uh, Frank? Could I, uh [almost runs into a tree branch] sorry to interrupt. May I please use the phone, just for a second?
+FARADAY: Hey, uh, Frank? Could I, uh [almost runs into a tree branch] sorry to interrupt. May I please use the phone, just for a second?
 
-FRANK: For what?
+LAPIDUS: For what?
 
-DANIEL: I just wanna call Regina on the boat. I figured since we’re waiting I could just, you know, try to—
+FARADAY: I just wanna call Regina on the boat. I figured since we’re waiting I could just, you know, try to—
 
-FRANK: What is it, Daniel?
+LAPIDUS: What is it, Daniel?
 
-DANIEL: I’d just like to do an experiment. Just, uh…
+FARADAY: I’d just like to do an experiment. Just, uh…
 
-FRANK: Sure. You just keep it to that science stuff, alright?
+LAPIDUS: Sure. You just keep it to that science stuff, alright?
 
 [FRANK hands DANIEL a sat phone.]
 
-DANIEL: Yeah.
+FARADAY: Yeah.
 
-FRANK: If Minkowski gets on there, you hang up right away.
+LAPIDUS: If Minkowski gets on there, you hang up right away.
 
-DANIEL: Yeah, thank you.
+FARADAY: Yeah, thank you.
 
 [DANIEL walks towards his equipment, dialing the phone. JACK stands up.]
 
 REGINA: (on phone) Hello?
 
-DANIEL: Regina? Hey, hi, it’s Dan. Hang on.
+FARADAY: Regina? Hey, hi, it’s Dan. Hang on.
 
 [DANIEL pushes a button on the phone and sets it on the ground next to his briefcase.]
 
-DANIEL: Can you hear me?
+FARADAY: Can you hear me?
 
 REGINA: Yeah.
 
-DANIEL: Yeah, hang on.
+FARADAY: Yeah, hang on.
 
 [DANIEL pushes a button on his equipment, which beeps.]
 
-DANIEL: I’m all, yes, [pushes a button] I’m all set here, I have a fix. Are you locked in?
+FARADAY: I’m all, yes, [pushes a button] I’m all set here, I have a fix. Are you locked in?
 
 [JACK looks confused and concerned.]
 
 REGINA: Getting your signal pretty clear.
 
-DANIEL: Oh, okay, great, then. Okay. Fire the payload.
+FARADAY: Oh, okay, great, then. Okay. Fire the payload.
 
 REGINA: Payload away.
 
-FRANK: Don’t sweat it. He does this kind of stuff on the boat all the time.
+LAPIDUS: Don’t sweat it. He does this kind of stuff on the boat all the time.
 
 [JACK looks around, worried. DANIEL looks around at the sky.]
 
@@ -510,21 +510,21 @@ REGINA: Forty kilometers to beacon. Thirty-five kilometers to beacon. Thirty kil
 
 REGINA: (continues) Fifteen kilometers to beacon. Ten kilometers to beacon.
 
-DANIEL: Regina?
+FARADAY: Regina?
 
 REGINA: Five kilometers to beacon.
 
-DANIEL: Huh.
+FARADAY: Huh.
 
 REGINA: Zero.
 
-DANIEL: I don’t have it.
+FARADAY: I don’t have it.
 
 [JACK looks at FRANK, who is unconcerned.]
 
 REGINA: That’s weird.
 
-DANIEL: That is far more than weird.
+FARADAY: That is far more than weird.
 
 [Laundry flaps on a clothesline. SAYID moves stealthily through the jungle. MILES crouches on the ground. KATE moves behind SAYID. The barracks are shown, in disarray. Grass is overgrown and furniture is overturned. A swing on the swing set moves with the wind.]
 
@@ -588,37 +588,37 @@ MILES: Where’s Ben’s house?
 
 JACK: Mind if I ask you a question?
 
-FRANK: Shoot.
+LAPIDUS: Shoot.
 
 JACK: The Red Sox really win the Series?
 
-FRANK: (looks up, agitated) Hey, don’t get me started on that, alright? My dad’s from the Bronx. I bleed Yankee blue.
+LAPIDUS: (looks up, agitated) Hey, don’t get me started on that, alright? My dad’s from the Bronx. I bleed Yankee blue.
 
 JACK: (chuckling) I can’t believe it’s been a hundred days since I’ve seen a game.
 
 [DANIEL turns suddenly, looking at the sky. A high-pitched whistling is heard. DANIEL looks happy and relieved.]
 
-DANIEL: Oh. It’s the payload! (points) It’s finally here.
+FARADAY: Oh. It’s the payload! (points) It’s finally here.
 
 [An object leaving a contrail is seen in the sky, shooting towards the ground. It lands in the clearing, yards from the helicopter, DANIEL, FRANK, and JACK. DANIEL runs towards it, while FRANK looks unimpressed and JACK looks shocked. DANIEL pulls the object out of the ground and unscrews it into two halves. JACK approaches him.]
 
 JACK: What is that?
 
-DANIEL: It’s a rocket.
+FARADAY: It’s a rocket.
 
 [DANIEL removes a small object from the rocket, standing up. As it beeps, he looks at it, then at his watch. JACK looks confused, FRANK amused.]
 
-DANIEL: Oh, no, no.
+FARADAY: Oh, no, no.
 
 [DANIEL rushes over to the tripod. He takes a timepiece off of it, the time on which reads “02:45:03” and counting. The object from the rocket is another timepiece, which reads “03:16:22” and counting.]
 
-DANIEL: (to himself) Thirty-one minutes.
+FARADAY: (to himself) Thirty-one minutes.
 
 [JACK and FRANK approach.]
 
-DANIEL: Oh, no. This is not good.
+FARADAY: Oh, no. This is not good.
 
-FRANK: Your friends are back.
+LAPIDUS: Your friends are back.
 
 [JULIET appears around a corner, followed by DESMOND, who is carrying a rifle. DESMOND is amazed by the sight of the helicopter, and JULIET laughs.]
 
@@ -858,7 +858,7 @@ ELSA: What do you think you’re do-
 
 DESMOND: Hey. I’m gonna ask you one last time. Why was Naomi carrying this picture of me?
 
-FRANK: Look, man, you gotta understand somethin. She was senior management. It’s not like we hung around the cafeteria together. She stayed on her own.
+LAPIDUS: Look, man, you gotta understand somethin. She was senior management. It’s not like we hung around the cafeteria together. She stayed on her own.
 
 [FRANK and DESMOND stop walking.]
 
@@ -880,37 +880,37 @@ SAYID: She decided to stay.
 
 [JACK looks confused.]
 
-FRANK: What happened to Miles?
+LAPIDUS: What happened to Miles?
 
 SAYID: I traded him.
 
-FRANK: Traded?
+LAPIDUS: Traded?
 
 SAYID: I promised you Charlotte, here she is.
 
-FRANK: You cheated.
+LAPIDUS: You cheated.
 
 SAYID: Did I?
 
-FRANK: Yes, you did. Lucky for you that guy’s nothing but a pain in my ass.
+LAPIDUS: Yes, you did. Lucky for you that guy’s nothing but a pain in my ass.
 
 [DANIEL approaches CHARLOTTE and puts an arm around her shoulder.]
 
 CHARLOTTE: Hey.
 
-FRANK: All right. That gives us room for one more. Charlotte?
+LAPIDUS: All right. That gives us room for one more. Charlotte?
 
 CHARLOTTE: (chuckles) Go back? With all the fun I’m having here? No, I’ve got work to do.
 
-FRANK: Seat’s yours if you want it, Daniel.
+LAPIDUS: Seat’s yours if you want it, Daniel.
 
-DANIEL: I… no, thank you. I think I should probably just stay with Charlotte.
+FARADAY: I… no, thank you. I think I should probably just stay with Charlotte.
 
-FRANK: All right.
+LAPIDUS: All right.
 
-DANIEL: (carrying suitcase) Hey, Frank. Frank? (quietly) Just one thing. Just be sure that you follow the same exact bearing that we came in on. No matter what. By that, I mean no matter what. Just – just stay on it.
+FARADAY: (carrying suitcase) Hey, Frank. Frank? (quietly) Just one thing. Just be sure that you follow the same exact bearing that we came in on. No matter what. By that, I mean no matter what. Just – just stay on it.
 
-FRANK: Roger that.
+LAPIDUS: Roger that.
 
 [JACK picks up a rifle and hands it to SAYID.]
 
@@ -926,7 +926,7 @@ JACK: Good luck. Send me a postcard.
 
 SAYID: You said we have room for one more?
 
-FRANK: Yeah, why?
+LAPIDUS: Yeah, why?
 
 [SAYID glances towards NAOMI.]
 

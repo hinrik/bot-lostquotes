@@ -736,7 +736,9 @@ SAWYER: Hey.
 
 MAN: [Over com] Clear the bridge. All personnel, lay below on the double.
 
-[Knob clicks] ENGINEER: [Into com] We're away. Engineering, take your stations. Boat is clear for sea.
+[Knob clicks]
+
+ENGINEER: [Into com] We're away. Engineering, take your stations. Boat is clear for sea.
 
 MAN: [Over com] All hands to your stations. Prepare to dive.
 

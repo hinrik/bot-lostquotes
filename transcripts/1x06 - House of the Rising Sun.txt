@@ -96,7 +96,7 @@ WALT: Stop. Hey stop.
 
 [Walt rushes up and Jin shoves him back, knocking him down.]
 
-Sun: 여보, 그만 해. 그만 해! 뭐하는 거야? 여보! 여보! 여보!
+SUN: 여보, 그만 해. 그만 해! 뭐하는 거야? 여보! 여보! 여보!
 
 WALT: Get off of him, please. Stop. Stop.
 
@@ -174,7 +174,7 @@ LOCKE: Hurry.
 
 MICHAEL: I'm getting tired of saying this. I was just walking the beach with my son, and all of the sudden this dude is all up on me. I didn't do anything.
 
-Jin: 시끄러워!
+JIN: 시끄러워!
 
 [Tense stares all around.]
 
@@ -190,7 +190,7 @@ JIN: 거짓말 하지 마!
 
 MICHAEL: So maybe you ought to talk to him [pointing at Jin].
 
-Sun: [Pointing to her watch] 지금 시계 때문에 그래요, 시계.
+SUN: [Pointing to her watch] 지금 시계 때문에 그래요, 시계.
 
 SAYID: The cuffs stay on.
 
@@ -572,7 +572,7 @@ INTERIOR DECORATOR: 당신 알죠? 당신 남편이나 당신 아버지가 당�
 
 SUN: 제가 떠난 후에 우리 강아지 좀 부탁할게요. [Subtitle: When I'm gone will you care for my dog?]
 
-INTERIOR DECORATOR, [handing Sun an American passport]: 당신들이 여행하는 동안, 공항에서, 시간은 열 한 시 십오 분. 당신은 무슨 수를 써서라도 공항 밖으로 빠져나와야 해요. 나올 땐 아무 것도 가지고 나와선 안 돼요. 당신이 납치 됐다고 생각할 거에요. 첫 일주일 동안은 당신 가족들이 당신이 죽었다고 생각할 때 까지 당신은 조용히, 가만히 있어야 돼요. 그 후엔 당신이 원하는 대로 자유롭게 움직일 수가 있죠. 말해봐요. 언제라 그랬죠? [Subtitle: During your trip, at the airport, at 11:15. . . You make an excuse and walk out of the airport. Bring nothing! A car will be waiting. For the first week your family will assume you've been kidnapped. You will stay out of sight until they come to think you are dead. After that you will be free to move wherever you want. Now, tell me when.]
+INTERIOR DECORATOR: [handing Sun an American passport] 당신들이 여행하는 동안, 공항에서, 시간은 열 한 시 십오 분. 당신은 무슨 수를 써서라도 공항 밖으로 빠져나와야 해요. 나올 땐 아무 것도 가지고 나와선 안 돼요. 당신이 납치 됐다고 생각할 거에요. 첫 일주일 동안은 당신 가족들이 당신이 죽었다고 생각할 때 까지 당신은 조용히, 가만히 있어야 돼요. 그 후엔 당신이 원하는 대로 자유롭게 움직일 수가 있죠. 말해봐요. 언제라 그랬죠? [Subtitle: During your trip, at the airport, at 11:15. . . You make an excuse and walk out of the airport. Bring nothing! A car will be waiting. For the first week your family will assume you've been kidnapped. You will stay out of sight until they come to think you are dead. After that you will be free to move wherever you want. Now, tell me when.]
 
 SUN: 공항에서, 열 한 시 십오 분에. [Subtitle: The airport, 11:15.]
 

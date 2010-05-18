@@ -1,6 +1,6 @@
 [Chickens clucking]
 
-Title card: Tikrit, Iraq
+[Title card: Tikrit, Iraq]
 
 MAN: [Pulling a boy alongside him.] [Subtitle: Come on! You are not a child anymore. Act like a man. You must kill one.] [Gestures toward a chicken coop.]
 
@@ -48,7 +48,7 @@ SAYID: [Takes the food and book.] Thank you.
 
 YOUNG BEN: Did Richard send you? [Sayid turns to look at young Ben.] Richard. He's your leader, right? [Sayid looks up towards the surveillance camera and makes a small nod in its direction.] It's just a camera. They can see, but they can't hear. Four years ago I ran away into the jungle and Richard found me. I said I wanted to leave. That I wanted to join you. So I've been patient. And if you're patient too, I think I can help you. 
 
-Title Card: Moscow
+[Title Card: Moscow]
 
 [MAN (2) rushes in through a doorway, frantically dropping his bags and shutting the door behind him. He scrambles along hallway into a room, whose door he deadbolts upon entering. He briefly stops to listen at the door. When he hears banging noises coming from outside the room, he rushes to a large wooden cabinet and begins emptying it of its contents. A safe is revealed inside. The banging noises continue as the man enters the combination and opens the safe. Suddenly, the room’s door bursts open and Sayid appears, holding a gun, which he points at the MAN.
 
@@ -622,7 +622,7 @@ HORACE: He violated the truce. What do you think they would do if they caught on
 
 SAWYER: Since when did we start acting like them? We're civilized.
 
-HOACE: Yes, we are. We have a rule of law. And we've given him every opportunity to defend himself.
+HORACE: Yes, we are. We have a rule of law. And we've given him every opportunity to defend himself.
 
 RADZINSKY: Blah, blah, blah. Need I remind you, this man's seen things? He knows things. There's nothing to talk about. He's a spy.
 
@@ -630,7 +630,7 @@ SAWYER: You sure about that, Stu? He was trying to escape from the hostiles. He 
 
 RADZINSKY: Yeah, and sharing our secrets are the quickest way for him to solve those problems.
 
-HOACE: Okay, I'm gonna need a little more time to consider.
+HORACE: Okay, I'm gonna need a little more time to consider.
 
 RADZINSKY: (scoffs) Consider? I mean, the longer he's among us, the--the more danger we're in.
 

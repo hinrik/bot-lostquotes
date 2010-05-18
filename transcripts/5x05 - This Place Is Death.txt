@@ -62,23 +62,23 @@ BEN: No, Sun. Jin's still alive, and I can prove it.
 
 MAN ON RECORDING: 8, 15, 16, 23, 42. 8, 15...
 
-ROUSSEAU: Are you all right?
+DANIELLE: Are you all right?
 
 JIN: You Rousseau? Danielle Rousseau?
 
-ROUSSEAU: Yes. Th-that's right.
+DANIELLE: Yes. Th-that's right.
 
 JIN: Where you from?
 
-ROUSSEAU: We sailed from Tahiti.
+DANIELLE: We sailed from Tahiti.
 
 JIN: When?
 
-ROUSSEAU: November 15th.
+DANIELLE: November 15th.
 
 JIN: No. What year?
 
-ROUSSEAU: 1988. Why?
+DANIELLE: 1988. Why?
 
 ROBERT: What's the matter?
 
@@ -86,7 +86,7 @@ JIN: I... I--I need go find my camp.
 
 [Jin begins to leave.]
 
-ROUSSEAU: [Stopping him] W--what camp?
+DANIELLE: [Stopping him] W--what camp?
 
 ROBERT: You were on this island before?
 
@@ -118,15 +118,15 @@ ROBERT: Like that. Is there a-a radio tower here?
 
 JIN: Yes. But I--I must find my camp because maybe, uh, helicopter go there.
 
-ROUSSEAU: Do you know where your camp is from here?
+DANIELLE: Do you know where your camp is from here?
 
 JIN: [Sighs] No.
 
-ROUSSEAU: How about from the radio tower?
+DANIELLE: How about from the radio tower?
 
 JIN: Yes.
 
-ROUSSEAU: Then go with us to the tower. Then we'll find your camp.
+DANIELLE: Then go with us to the tower. Then we'll find your camp.
 
 JIN: Okay.
 
@@ -134,11 +134,11 @@ ROBERT: Bon, c'est décidé. On bouge de là. [Subtitle: That's settled. Let's g
 
 [Robert leads Rousseau away and kisses her tenderly, then starts hiking. Rousseau turns around and puts a concerned arm on Jin's shoulder.]
 
-ROUSSEAU: Are you ready to go?
+DANIELLE: Are you ready to go?
 
 JIN: Yes.
 
-ROUSSEAU: Who are you hoping to find?
+DANIELLE: Who are you hoping to find?
 
 JIN: My wife.
 
@@ -150,31 +150,31 @@ MAN ON RECORDING: 8, 15, 16, 23... [feedback] 23...
 
 MONTAND: [Pointing ahead] Par là. [Subtitle: This way.]
 
-ROUSSEAU: Ugh!
+DANIELLE: Ugh!
 
 ROBERT: Danielle ? Qu'est qu'il y a ? [Subtitle: Danielle? What's wrong--?!]
 
-ROUSSEAU: Rien, c'est rien. [Subtitle: It's... It's nothing...]
+DANIELLE: Rien, c'est rien. [Subtitle: It's... It's nothing...]
 
 ROBERT: Je savais que c'était une erreur, t'es enceinte de sept mois-- [Subtitle: I knew this was a mistake, you're seven months pregnant--]
 
-ROUSSEAU: Robert, ça va! Elle m'a juste donné un petit coup de pied. [Subtitle: Robert. I'm fine. She just gave me a little kick.]
+DANIELLE: Robert, ça va! Elle m'a juste donné un petit coup de pied. [Subtitle: Robert. I'm fine. She just gave me a little kick.]
 
 ROBERT: Elle ? [Subtitle: She?]
 
-ROUSSEAU: Elle ! [Subtitle: She!]
+DANIELLE: Elle ! [Subtitle: She!]
 
 ROBERT: Arrête ! Combien de fois on va remettre ça ? Alexandre, c'est un garçon. [Subtitle: How many times do we have to do this? Alexander is a boy.]
 
-ROUSSEAU: Alexandra. Ca va être une fille. [Subtitle: Alexandra. It's going to be a girl.]
+DANIELLE: Alexandra. Ca va être une fille. [Subtitle: Alexandra. It's going to be a girl.]
 
 ROBERT: Unh-unh.
 
-ROUSSEAU: Si.
+DANIELLE: Si.
 
 ROBERT: On se repose un moment ? [Subtitle: Why don't we rest here for a moment?]
 
-ROUSSEAU: Ouais. [Subtitle: Yeah.]
+DANIELLE: Ouais. [Subtitle: Yeah.]
 
 ROBERT: Je vais te chercher de l'eau. [Subtitle: I'll get you some water.]
 
@@ -198,7 +198,7 @@ MONTAND: Voilà ce qui arrive quand on amène des femmes. Elle court sûrement a
 
 [Deep growling]
 
-ROUSSEAU: [To Jin] Did you hear that?
+DANIELLE: [To Jin] Did you hear that?
 
 ROBERT: What is that?
 
@@ -324,7 +324,7 @@ JIN: Where is Sun?
 
 MILES: [To Daniel] Where'd that guy come from? I thought he was on the boat.
 
-DANIEL: [To Miles] The blast must've thrown him in the water. He's been moving with every flash, just like us.
+FARADAY: [To Miles] The blast must've thrown him in the water. He's been moving with every flash, just like us.
 
 SAWYER: [Explaining to Jin] Every time the sky lights up, we... move through time.
 
@@ -408,15 +408,15 @@ JIN: Why?
 
 LOCKE: I don’t know why, Jin, it just is. But I promise I'll bring Sun back.
 
-DANIEL: [To Charlotte] You okay? Want to take a break?
+FARADAY: [To Charlotte] You okay? Want to take a break?
 
 CHARLOTTE: Let's just get there.
 
-DANIEL: So... you speak any other languages?
+FARADAY: So... you speak any other languages?
 
 CHARLOTTE: Just Klingon. Dan, is this gonna work?
 
-DANIEL: It... it does make empirical sense that if this started at the Orchid then that's where it's gotta stop. But as far as bringing back the people who left in order to stop these temporal shifts? That's where we leave science behind. [Charlotte stumbles] You okay?
+FARADAY: It... it does make empirical sense that if this started at the Orchid then that's where it's gotta stop. But as far as bringing back the people who left in order to stop these temporal shifts? That's where we leave science behind. [Charlotte stumbles] You okay?
 
 [Sounds of flash]
 
@@ -430,7 +430,7 @@ CHARLOTTE: [Cries in pain] Ah!
 
 [Flash--all the characters hold their heads in pain--then Charlotte collapses.]
 
-DANIEL: Charlotte! Charlotte!
+FARADAY: Charlotte! Charlotte!
 
 SAWYER: [Looking at Juliet] Juliet...?
 
@@ -440,7 +440,7 @@ SAWYER: ...you have a little... [touches under his own nose to indicate her nose
 
 JULIET: You too.
 
-DANIEL: Charlotte! Can you hear me? Charlotte, it's Daniel. Talk to me...
+FARADAY: Charlotte! Can you hear me? Charlotte, it's Daniel. Talk to me...
 
 CHARLOTTE: [Regaining consciousness, frantically speaking Korean to Jin] 잘 들어. 데리고 오지 말라고 해. 잘 들어. 데리고 오지 말라고 해. 이 곳은 죽음 뿐이야. [Translation: ]
 
@@ -478,29 +478,29 @@ SUN: [pause] Drive.
 
 CHARLOTTE: [In a small, childish voice] Why can’t Daddy come with us?
 
-DANIEL: Charlotte, can you hear me?
+FARADAY: Charlotte, can you hear me?
 
 CHARLOTTE: [Reproachfully, in an adult voice] You know what my mum would say about you marrying an American. [Suddenly confident] I know more about ancient Carthage than Hannibal himself.
 
 SAWYER: What the hell is she talking about?
 
-DANIEL: I have no idea.
+FARADAY: I have no idea.
 
 LOCKE: Let’s go – we have to keep moving.
 
-DANIEL: Alright. Somebody help me with Charlotte. We’re going to have to carry her.
+FARADAY: Alright. Somebody help me with Charlotte. We’re going to have to carry her.
 
 LOCKE: No – she’s going to hold us up.
 
-DANIEL: We can’t just leave her.
+FARADAY: We can’t just leave her.
 
 SAWYER: Flashes are getting closer together. Maybe when your nose starts bleeding, you’ll realize we gotta get out of Dodge now. We’ll come back for her just as soon as we can.
 
-DANIEL: No. No way. I’m not going to leave her behind.
+FARADAY: No. No way. I’m not going to leave her behind.
 
 CHARLOTTE: Let them go without me.
 
-DANIEL: No, Charlotte, no, we’re not going to leave you behind.
+FARADAY: No, Charlotte, no, we’re not going to leave you behind.
 
 [Flash]
 
@@ -510,17 +510,17 @@ LOCKE: We have to move, now!
 
 CHARLOTTE: He’s right, go!
 
-DANIEL: Charlotte...
+FARADAY: Charlotte...
 
 CHARLOTTE: Just go!
 
-DANIEL: Charlotte...
+FARADAY: Charlotte...
 
 CHARLOTTE: Oh, oh turn it up! I love Geronimo Jackson.
 
 JULIET: [gently] We’re running out of time, Dan.
 
-DANIEL: Go. I’m going to stay with her.
+FARADAY: Go. I’m going to stay with her.
 
 SAWYER: Let me ask you something, John. If we don’t even know when the hell we are, what happens if the Orchid ain’t around anymore?
 
@@ -548,19 +548,19 @@ MILES: How the hell did Charlotte know this was here?
 
 CHARLOTTE: [Coughing] Daniel?
 
-DANIEL: Yes?
+FARADAY: Yes?
 
 CHARLOTTE: I’ve been here before.
 
-DANIEL: You’ve been...been here before?
+FARADAY: You’ve been...been here before?
 
 CHARLOTTE: I grew up here...on the island. And there was this thing...this... DHARMA Initiative. And then...I moved away with my mum. Just my mum...and...I never saw my dad again. And then when I got back to England, I would...I would...ask my mum about this place, yeah? But she would say that it wasn’t real...and that I’d made it up. That’s why... I became an anthropologist. To find this island again. It’s what...I’ve been searching for my whole life.
 
-DANIEL: Charlotte...why are you telling me this?
+FARADAY: Charlotte...why are you telling me this?
 
 CHARLOTTE: Because I remember something now. When I was little, living here, there was this man... a crazy man, he really scared me. And he told me that I had to leave the island and never ever come back. He told me that if I came back I would die.
 
-DANIEL: Charlotte, I don’t understand.
+FARADAY: Charlotte, I don’t understand.
 
 CHARLOTTE: Daniel – I think that man was you. 
 
@@ -646,23 +646,23 @@ JULIET: [Calmly] James--we can't help him.
 
 [Daniel and Charlotte, by the stream. Charlotte coughs.]
 
-DANIEL: Hold on... hold on... hold on... hold on... stay.... stay... stay with me... stay, okay? You're gonna be fine. Everything’s gonna be okay. I’ve got a plan... I've got a plan. When we were back at the hatch, I talked to Desmond. I told him to find my mother. She can help us, Charlotte, she will help us!
+FARADAY: Hold on... hold on... hold on... hold on... stay.... stay... stay with me... stay, okay? You're gonna be fine. Everything’s gonna be okay. I’ve got a plan... I've got a plan. When we were back at the hatch, I talked to Desmond. I told him to find my mother. She can help us, Charlotte, she will help us!
 
 CHARLOTTE: How can your mother help us?
 
-DANIEL: She can! She will...
+FARADAY: She can! She will...
 
 [Charlotte coughs up blood--Daniel tenderly wipes it away. Charlotte looks up at Daniel.]
 
 CHARLOTTE: Hey, hey. Listen, listen.
 
-DANIEL: Yeah? What?
+FARADAY: Yeah? What?
 
 CHARLOTTE: [In a mischievous, childish voice] I'm not allowed to have chocolate before dinner... mm....
 
 [Charlotte dies.]
 
-DANIEL: [Quietly] Charlotte. Charlotte? Charlotte... No...!
+FARADAY: [Quietly] Charlotte. Charlotte? Charlotte... No...!
 
 [Daniel quietly weeps over Charlotte's body.] 
 
@@ -676,7 +676,7 @@ LOCKE: Who’s there?
 
 [The figure approaches in shadow, his back to Locke. He lights an old lamp. He turns around, revealing his face.]
 
-CHRISTIAN SHEPHARD: Hello, John.
+CHRISTIAN: Hello, John.
 
 LOCKE: [Amazed] You! What are you doing down here?
 

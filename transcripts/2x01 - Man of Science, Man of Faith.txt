@@ -130,7 +130,7 @@ JACK: She said she has to dance at her wedding.
 
 CHARLIE: Okay, no one is out there. No one is coming.
 
-N.D. Survivor: But the -- but the French woman said...
+N.D. SURVIVOR: But the -- but the French woman said...
 
 CHARLIE: The French woman is missing a bloody wing nut, you know. I mean, I mean, it was all bollocks. It's a ghost story. She set the fire herself. [Charlie sees Sayid looking at him.] What?
 
@@ -284,23 +284,23 @@ JACK: You have a fracture-dislocation of your thoracic lumbar spine with multipl
 
 SARAH: Oh.
 
-CHRISTIAN SHEPHARD: Dr. Shephard, may I have a word, please.
+CHRISTIAN: Dr. Shephard, may I have a word, please.
 
 JACK: So, what did I do wrong?
 
-CHRISTIAN SHEPHARD: You did something wrong?
+CHRISTIAN: You did something wrong?
 
 JACK: You're frowning.
 
-CHRISTIAN SHEPHARD: My face is always this way.
+CHRISTIAN: My face is always this way.
 
 JACK: Dad, hey, c'mon, let's hear it.
 
-CHRISTIAN SHEPHARD: You might want to try handing out some hope every once in awhile. Even if there's a 99 percent probability that they're utterly, hopelessly screwed, folks are much more inclined to hear that 1 percent chance that things are going to be okay.
+CHRISTIAN: You might want to try handing out some hope every once in awhile. Even if there's a 99 percent probability that they're utterly, hopelessly screwed, folks are much more inclined to hear that 1 percent chance that things are going to be okay.
 
 JACK: Her spine's crushed. I tell her that everything's going to be okay -- that's false hope, dad.
 
-CHRISTIAN SHEPHARD: Maybe. Maybe, but it's still hope.
+CHRISTIAN: Maybe. Maybe, but it's still hope.
 
 [END OF FLASHBACK]
 
@@ -644,6 +644,6 @@ JACK: Is this what you were talking about, Locke? Is this your destiny? All road
 
 LOCKE: Jack, calm down.
 
-GUNMAN's VOICE: [as he moves behind Locke] Lower your gun or I'll blow his damned head off, brother.
+GUNMAN'S VOICE: [as he moves behind Locke] Lower your gun or I'll blow his damned head off, brother.
 
 JACK: [recognizing that it's Desmond] You. 

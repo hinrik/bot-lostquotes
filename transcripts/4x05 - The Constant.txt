@@ -2,17 +2,17 @@
 
 SAYID: What's that?
 
-FRANK: Cheat sheet Faraday drew for me.
+LAPIDUS: Cheat sheet Faraday drew for me.
 
 SAYID: You don't know where your boat is?
 
-FRANK: I know where it is.
+LAPIDUS: I know where it is.
 
 [The helicopter begins flying into a thunderhead.]
 
 SAYID: Why are you flying directly into the thunderhead?
 
-FRANK: Why don't you just sit back and let me do my job, huh?
+LAPIDUS: Why don't you just sit back and let me do my job, huh?
 
 [SAYID turns to look at DESMOND, who is still looking at the photograph.]
 
@@ -26,11 +26,11 @@ DESMOND: Answers.
 
 [The helicopter experiences turbulence. There's a lightning strike.]
 
-FRANK: Damn it!
+LAPIDUS: Damn it!
 
 [FRANK struggles to keep the copter steady.]
 
-FRANK: Hold on!
+LAPIDUS: Hold on!
 
 [DESMOND looks around, gripping the seat. Suddenly, he's gripping a bed. His hair is cut short, and he's in a military barrack.]
 
@@ -78,7 +78,7 @@ SGT: I asked you a question!
 
 [DESMOND is suddenly back on the helicopter, extremely disturbed.]
 
-FRANK: We're almost through it. I see daylight!
+LAPIDUS: We're almost through it. I see daylight!
 
 [DESMOND begins to unbuckle himself.]
 
@@ -102,7 +102,7 @@ JULIET: You're boat's forty miles off the coast, it should have taken them what,
 
 CHARLOTTE: Should I wring me hands together and whisper a prayer on their behalf?
 
-DANIEL: Hey, hey, hey, c'mon. Maybe we should just, just tell them.
+FARADAY: Hey, hey, hey, c'mon. Maybe we should just, just tell them.
 
 JACK: Tell us what?
 
@@ -110,17 +110,17 @@ CHARLOTTE: Dan, let's not confuse anyone.
 
 JULIET: Well, Daniel, maybe if you talk real slow, we'll be able to follow.
 
-DANIEL: Your perception of how long your friends have been gone, it's not necessarily how long they've actually been gone.
+FARADAY: Your perception of how long your friends have been gone, it's not necessarily how long they've actually been gone.
 
 JACK: What does that mean?
 
 CHARLOTTE: This is a mistake.
 
-DANIEL: It'll be fine, it'll be fine. As long as Frank flew on the bearings I gave him. If he stayed on it, it'll be fine.
+FARADAY: It'll be fine, it'll be fine. As long as Frank flew on the bearings I gave him. If he stayed on it, it'll be fine.
 
 JACK: And what if he didn't?
 
-DANIEL: Then there might be side-effects.
+FARADAY: Then there might be side-effects.
 
 [On the copter.]
 
@@ -128,19 +128,19 @@ SAYID: We're at two thousand feet, sit down!
 
 DESMOND: What am I doing here?
 
-FRANK: What the hell's going on?
+LAPIDUS: What the hell's going on?
 
 SAYID: Something's wrong with Desmond!
 
 DESMOND: How do you know my name?
 
-FRANK: Hold him there, Sayid!
+LAPIDUS: Hold him there, Sayid!
 
 SAYID: I'm trying!
 
 DESMOND: Let go of me!
 
-FRANK: Keep him away from the stick! We'll be there in two minutes.
+LAPIDUS: Keep him away from the stick! We'll be there in two minutes.
 
 [The helicopter veers down, and comes close to the freighter. SAYID lets DESMOND go, DESMOND notices the photo clenched in his hand. The helicopter lands.]
 
@@ -150,7 +150,7 @@ KEAMY: What are you doing back?
 
 OMAR: Who are they?
 
-FRANK: Survivors of 815.
+LAPIDUS: Survivors of 815.
 
 KEAMY: You shouldn't have brought them here, what the hell were you thinking?
 
@@ -172,7 +172,7 @@ DESMOND: I'm not your friend! I don't know you! I don't know you!
 
 KEAMY: When did he start doing this?
 
-FRANK: He was fine when we took off. When we hit some weather...Hey, Faraday told me as long as I stayed on the vector --
+LAPIDUS: He was fine when we took off. When we hit some weather...Hey, Faraday told me as long as I stayed on the vector --
 
 [KEAMY motions for him to stay quiet. He and OMAR step toward DESMOND, but are blocked by SAYID.]
 
@@ -284,19 +284,19 @@ MAN: It's happening to you too, isn't it?
 
 SAYID: What's happening to Desmond? Your friends know what's wrong with him.
 
-FRANK: Well if they do, they're not sharing it with me.
+LAPIDUS: Well if they do, they're not sharing it with me.
 
 SAYID: Then perhaps you'll share how we took off at dusk and landed in the middle of the day.
 
-FRANK: Listen. I don't know what's happening to your buddy, alright? But you gotta trust me when I tell you this. I am trying to help you.
+LAPIDUS: Listen. I don't know what's happening to your buddy, alright? But you gotta trust me when I tell you this. I am trying to help you.
 
 SAYID: You want to help me? Give me your phone. Let me call my people.
 
-FRANK: You give me that weapon and I'll give you this phone.
+LAPIDUS: You give me that weapon and I'll give you this phone.
 
 [They trade.]
 
-FRANK: Be quick. And don't go trying to call Baghdad, those phones can only call each other.
+LAPIDUS: Be quick. And don't go trying to call Baghdad, those phones can only call each other.
 
 [On the beach, the phone in JACK's hand rings.]
 
@@ -314,15 +314,15 @@ SAYID: On the helicopter, something happened to Desmond. He doesn't appear to re
 
 JACK: (to Dan) Side-effects?
 
-DAN: Wait, your friend, Desmond? Has he recently been exposed to high levels of radiation or electromagnetism?
+FARADAY: Wait, your friend, Desmond? Has he recently been exposed to high levels of radiation or electromagnetism?
 
 [JACK and JULIET have no idea.]
 
-DAN: Okay, look. Uh, we don't know why, but going to and coming from the island, some people can get a little...confused.
+FARADAY: Okay, look. Uh, we don't know why, but going to and coming from the island, some people can get a little...confused.
 
 JULIET: So, what, is this amnesia?
 
-DAN: No, this is not amnesia.
+FARADAY: No, this is not amnesia.
 
 [DESMOND leans over the man, who is staring blankly into space.]
 
@@ -338,37 +338,37 @@ MAN: See, Ray? I'm not crazy. It's happening to him too, Ray. And it's going to 
 
 [RAY prepares a syringe.]
 
-RAY: (to Desmond) Would you please step aside?
+DR. RAY: (to Desmond) Would you please step aside?
 
 MAN: No, Ray, Ray, no.
 
-RAY: I need you to relax for a minute.
+DR. RAY: I need you to relax for a minute.
 
 MAN: No! It's not going to stop it, Ray, nothing can stop it, Ray, nothing can stop it!
 
 [The MAN is injected, and immediately relaxes.]
 
-RAY: (to Desmond) And how are you feeling?
+DR. RAY: (to Desmond) And how are you feeling?
 
 DESMOND: What the bloody hell is going on?
 
-RAY: I understand, you're disoriented.
+DR. RAY: I understand, you're disoriented.
 
 DESMOND: You're not going to stick me with that, brotha.
 
-RAY: I don't want to stick you with anything. It's okay, I just want to check your eyes.
+DR. RAY: I don't want to stick you with anything. It's okay, I just want to check your eyes.
 
 DESMOND: Why?
 
-RAY: So I can help you.
+DR. RAY: So I can help you.
 
 [DESMOND lets him.]
 
-RAY: What's your name?
+DR. RAY: What's your name?
 
 DESMOND: Desmond.
 
-RAY: Desmond. Desmond, why don't you tell me about the last thing you remem-
+DR. RAY: Desmond. Desmond, why don't you tell me about the last thing you remem-
 
 [DESMOND is in the rain at the military camp, picking up his coins. Going into the phone booth, he inserts them and dials the number.]
 
@@ -396,21 +396,21 @@ DESMOND: Look, look, now listen, Penny, Penny, I need-
 
 DESMOND: -need you.
 
-RAY: Did you just experience something, Desmond?
+DR. RAY: Did you just experience something, Desmond?
 
 [FRANK and SAYID walk in.]
 
-RAY: What the hell, Frank? You're not supposed to be down here, and definitely not with him.
+DR. RAY: What the hell, Frank? You're not supposed to be down here, and definitely not with him.
 
-FRANK: Sorry, doc, but I've got Faraday calling from the island, and he needs to talk to this -
+LAPIDUS: Sorry, doc, but I've got Faraday calling from the island, and he needs to talk to this -
 
-RAY: No, Faraday's not talking to my patient, now get out of here.
+DR. RAY: No, Faraday's not talking to my patient, now get out of here.
 
 SAYID: He's not your patient.
 
 [SAYID slams RAY to the wall.]
 
-RAY: Hey!
+DR. RAY: Hey!
 
 SAYID: Give Desmond the phone.
 
@@ -422,47 +422,47 @@ SAYID: Give him the phone now!
 
 DESMOND: Hello?
 
-DAN: Desmond! Desmond, my name is Daniel Faraday. We met yesterday before you took off? But I'm guessing you don't remember that. Am I right?
+FARADAY: Desmond! Desmond, my name is Daniel Faraday. We met yesterday before you took off? But I'm guessing you don't remember that. Am I right?
 
 DESMOND: Took off? What?
 
-DAN: Desmond, we don't have long to talk so I need you to tell me what year you think it is.
+FARADAY: Desmond, we don't have long to talk so I need you to tell me what year you think it is.
 
 DESMOND: What do you mean, what year do I think it -- it's 1996!
 
-DAN: Alright, Desmond, Desmond look, you gotta tell me...where are you?
+FARADAY: Alright, Desmond, Desmond look, you gotta tell me...where are you?
 
 DESMOND: Um...um...I'm in some kind of sick bay...
 
-DAN: No, no, no, no. Not right now, Desmond. Where are you supposed to be. Where are you in 1996?
+FARADAY: No, no, no, no. Not right now, Desmond. Where are you supposed to be. Where are you in 1996?
 
 DESMOND: Uh, Camp Millar, it's a ...Royal Scots Regiment, it's just north of Glasgow.
 
 JACK: Dan. You might wanna-
 
-DAN: No, no, no. I'm thinking, I'm thinking. Desmond, listen. When it happens again, Desmond, I need you to get on a train. Get on a train and go to Oxford, Oxford University, Queens College Physics Department. Alright?
+FARADAY: No, no, no. I'm thinking, I'm thinking. Desmond, listen. When it happens again, Desmond, I need you to get on a train. Get on a train and go to Oxford, Oxford University, Queens College Physics Department. Alright?
 
 DESMOND: What, why?
 
-DAN: Because I need you to find me.
+FARADAY: Because I need you to find me.
 
 [DAN searches in his backpack.]
 
-DAN: (mumbling) Where is it? Where is it?
+FARADAY: (mumbling) Where is it? Where is it?
 
 CHARLOTTE: What?
 
-DAN: My journal. I need my journal, I won't believe him.
+FARADAY: My journal. I need my journal, I won't believe him.
 
 JACK: Why does he think he's in 1996?
 
-DAN: I don't know, I don't know. It's unpredictable, it's a random effect. Sometimes it takes place for only a couple of hours, sometimes it's years.
+FARADAY: I don't know, I don't know. It's unpredictable, it's a random effect. Sometimes it takes place for only a couple of hours, sometimes it's years.
 
 JACK: Wait, wait. This has happened before?
 
 [DAN finds the journal.]
 
-DAN: The phone now, please. Thank you. (into phone) Desmond, you still there?
+FARADAY: The phone now, please. Thank you. (into phone) Desmond, you still there?
 
 [SAYID blocking the door, behind which there is yelling.]
 
@@ -470,49 +470,49 @@ SAYID: Talk to him! I can't hold them for long.
 
 DESMOND: (to Dan) Yes! What've you got?
 
-DAN: Okay, Desmond, listen. When you find me at Queens College, I need you to tell me to set the device to 2.342.
+FARADAY: Okay, Desmond, listen. When you find me at Queens College, I need you to tell me to set the device to 2.342.
 
 DESMOND: What?
 
-DAN: Alright, you got it? 2.342! And it must be oscillating at eleven hertz. You got it Desmond?
+FARADAY: Alright, you got it? 2.342! And it must be oscillating at eleven hertz. You got it Desmond?
 
 DESMOND: 2.342 and oscillating at eleven...
 
-DAN: Just remember that. 2.342 and eleven hertz, alright? And one more thing, Desmond. If the numbers don't convince me, I need you to tell me that you know about Eloise.
+FARADAY: Just remember that. 2.342 and eleven hertz, alright? And one more thing, Desmond. If the numbers don't convince me, I need you to tell me that you know about Eloise.
 
 [KEAMY and OMAR bust in.]
 
 OMAR: Hey, hey, hey! Take it easy...
 
-DAN: Desmond! Tell me that you know about Eloise!
+FARADAY: Desmond! Tell me that you know about Eloise!
 
 [KEAMY snatches the phone away from DESMOND. DESMOND reappears in the phone booth. He travels to Queens College. He walks down a hall, and sees DAN talking to a student.]
 
-DAN: ...discover not a modicum of original thinking. You do understand the concept of original, the opposite of derivative? Now I'm the one you need to impress, Mr H______, you need to impress me. And I'm not impressed. Go, go try again.
+FARADAY: ...discover not a modicum of original thinking. You do understand the concept of original, the opposite of derivative? Now I'm the one you need to impress, Mr H______, you need to impress me. And I'm not impressed. Go, go try again.
 
 DESMOND: Um, sorry. Are you Daniel Faraday?
 
-DAN: And you are?
+FARADAY: And you are?
 
 DESMOND: Um...sorry, I'm Desmond Hume, and um...I was told I could find you here. I think I've...just been to the future.
 
-DAN: ...the future?
+FARADAY: ...the future?
 
 DESMOND: Yes. Uh, I spoke to you there, you told me to come here, to Oxford, to find you, you said you'd help me.
 
-DAN: Why didn't I just help you there, in the future?
+FARADAY: Why didn't I just help you there, in the future?
 
 DESMOND: Sorry?
 
-DAN: Why would I put you through the headache of time travel, you know? You know what I mean, it just seems a little...unnecessary. And don't you think that my esteemed colleagues could have come up with something just a little more believable, huh? Wha--what kind of a prank is that? Huh, paradox. So uninspired.
+FARADAY: Why would I put you through the headache of time travel, you know? You know what I mean, it just seems a little...unnecessary. And don't you think that my esteemed colleagues could have come up with something just a little more believable, huh? Wha--what kind of a prank is that? Huh, paradox. So uninspired.
 
 DESMOND: Set your device to um...2.342 and make sure it oscillates at eleven.
 
-DAN: Okay, now you, you're going to tell me who told you those numbers.
+FARADAY: Okay, now you, you're going to tell me who told you those numbers.
 
 DESMOND: You did.
 
-DAN: This is ridiculous.
+FARADAY: This is ridiculous.
 
 DESMOND: I know about Eloise.
 
@@ -520,71 +520,71 @@ DESMOND: I know about Eloise.
 
 DESMOND: What, what is all this?
 
-DAN: This is where I do the things Oxford frowns upon. Alright, this, this future version of me...uh, he referenced this meeting, right? Obviously so, so I would remember you coming to Oxford, right? I would remember this, here, right now.
+FARADAY: This is where I do the things Oxford frowns upon. Alright, this, this future version of me...uh, he referenced this meeting, right? Obviously so, so I would remember you coming to Oxford, right? I would remember this, here, right now.
 
 DESMOND: Actually, um, no.
 
-DAN: No.
+FARADAY: No.
 
 DESMOND: Maybe you just forgot.
 
-DAN: Yeah, right, how would that happen?
+FARADAY: Yeah, right, how would that happen?
 
 DESMOND: So this, this is changing the future?
 
-DAN: You can't change the future.
+FARADAY: You can't change the future.
 
 [DAN puts on a special coat.]
 
 DESMOND: What's that for?
 
-DAN: Radiation.
+FARADAY: Radiation.
 
 DESMOND: Do I get one?
 
-DAN: You don't need one. For prolonged exposure, I do this twenty times a day.
+FARADAY: You don't need one. For prolonged exposure, I do this twenty times a day.
 
 DESMOND: So what do you put on your head?
 
-DAN: (chuckles) Yeah.
+FARADAY: (chuckles) Yeah.
 
 [DAN flicks some switches. He then reaches over, taking out a rat.]
 
-DAN: And this...this is Eloise.
+FARADAY: And this...this is Eloise.
 
 [DAN places ELOISE in the maze.]
 
 DESMOND: What does this do?
 
-DAN: This, if the numbers you gave me are correct, what this will do is unstick Eloise in time. Just like you.
+FARADAY: This, if the numbers you gave me are correct, what this will do is unstick Eloise in time. Just like you.
 
 [He presses a button, and a red light consumes Eloise.]
 
 DESMOND: What happened?
 
-DAN: Wait, shhshhshh! She's not back yet...there she is. Okay, here goes everything.
+FARADAY: Wait, shhshhshh! She's not back yet...there she is. Okay, here goes everything.
 
 [DAN lifts a flap, and ELOISE runs out into the maze.]
 
-DAN: Come on, come on, that's it, come on, that's it, yes, yes, yes, haha! Yes! Oh, it worked! This is incredible.
+FARADAY: Come on, come on, that's it, come on, that's it, yes, yes, yes, haha! Yes! Oh, it worked! This is incredible.
 
 DESMOND: I'm sorry, how is a rat running through a bloody maze so incredible?
 
-DAN: What is incredible, is I just finished the maze this morning. I'm not going to teach her to run it until an hour from now.
+FARADAY: What is incredible, is I just finished the maze this morning. I'm not going to teach her to run it until an hour from now.
 
 DESMOND: So you, you sent her to the future!
 
-DAN: No, no, no. Her consciousness. Her mind.
+FARADAY: No, no, no. Her consciousness. Her mind.
 
 [DAN runs over to a board and starts erasing things.]
 
 DESMOND: So, so how does that help me?
 
-DAN: You, what? I don't understand, am I supposed to help you? Didn't I send you back here to help me?
+FARADAY: You, what? I don't understand, am I supposed to help you? Didn't I send you back here to help me?
 
 DESMOND: I don't know why you sent me here. All I know about you is that you end up on some bloody island.
 
-DAN: An island. What island, where...why would I go to an island?
+FARADAY: An island. What island, where...why would I go to an island?
 
 [DESMOND reappears back on the freighter, still struggling for the phone.]
 
@@ -592,13 +592,13 @@ KEAMY: Desmond, give me the phone.
 
 [KEAMY takes the phone.]
 
-FRANK: Hey look! Hey, come on! Everybody relax, listen! Look! Daniel wanted to talk to the guy so we brought him the phone, that's all.
+LAPIDUS: Hey look! Hey, come on! Everybody relax, listen! Look! Daniel wanted to talk to the guy so we brought him the phone, that's all.
 
 KEAMY: You let Faraday talk to him?
 
-FRANK: He said he could help!
+LAPIDUS: He said he could help!
 
-RAY: Faraday can't even help himself.
+DR. RAY: Faraday can't even help himself.
 
 OMAR: (to Frank) Outside now. The captain wants to talk to you.
 
@@ -630,51 +630,51 @@ MINKOWSKI: Those calls came from your girlfriend. Penelope Widmore.
 
 DESMOND: What happened?
 
-DAN: Whoa, you're back, and you were out for almost 75 minutes.
+FARADAY: Whoa, you're back, and you were out for almost 75 minutes.
 
 DESMOND: Out?
 
-DAN: Yeah, yeah, yeah. You just whoof, went catatonic right in the middle of a sentence. I had to carry you to the chair. So I take it you were, you were in the future again?
+FARADAY: Yeah, yeah, yeah. You just whoof, went catatonic right in the middle of a sentence. I had to carry you to the chair. So I take it you were, you were in the future again?
 
 DESMOND: Aye.
 
-DAN: For how long?
+FARADAY: For how long?
 
 DESMOND: I don't know...five minutes? Why does this keep happening?
 
-DAN: In your case, I'm guessing that progression is exponential. Each time your consciousness jumps, it gets harder to jump back. I would be careful crossing the street if I were you.
+FARADAY: In your case, I'm guessing that progression is exponential. Each time your consciousness jumps, it gets harder to jump back. I would be careful crossing the street if I were you.
 
 [DESMOND looks at the body of ELOISE.]
 
 DESMOND: What happened to her?
 
-DAN: She died.
+FARADAY: She died.
 
 DESMOND: Yeah, I can see that. How?
 
-DAN: Brain aneurysm, probably. I dunno. I'll need to do an autopsy later.
+FARADAY: Brain aneurysm, probably. I dunno. I'll need to do an autopsy later.
 
 DESMOND: Is that going to happen to me?
 
-DAN: The effects seem to vary from case to case, but uh...
+FARADAY: The effects seem to vary from case to case, but uh...
 
 [DESMOND pins DAN to the wall.]
 
 DESMOND: If these keeps happening, am I going to die?
 
-DAN: I don't know. I think Eloise's brain short-circuited. The jumps between the present and the future...she couldn't tell which was which, she had no anchor.
+FARADAY: I don't know. I think Eloise's brain short-circuited. The jumps between the present and the future...she couldn't tell which was which, she had no anchor.
 
 DESMOND: Wh...what do you mean, anchor?
 
-DAN: Something familiar in both times. All this, see this is variables, it's random, it's chaotic. Every equation needs stability, something known. It's called a constant. Desmond, you have no constant. When you go to the future, nothing there is familiar. So if you want to stop this, then you need to find something there...something that you really, really care about....that also exists back here, in 1996.
+FARADAY: Something familiar in both times. All this, see this is variables, it's random, it's chaotic. Every equation needs stability, something known. It's called a constant. Desmond, you have no constant. When you go to the future, nothing there is familiar. So if you want to stop this, then you need to find something there...something that you really, really care about....that also exists back here, in 1996.
 
 DESMOND: This constant...can it be a person?
 
-DAN: Yeah, maybe. But you have to make some kind of contact. Didn't you say you were off on a boat, in the middle of nowhere?
+FARADAY: Yeah, maybe. But you have to make some kind of contact. Didn't you say you were off on a boat, in the middle of nowhere?
 
 [DESMOND begins dialing on a phone.]
 
-DAN: Uh...who're you calling?
+FARADAY: Uh...who're you calling?
 
 DESMOND: I'm calling my bloody constant.
 

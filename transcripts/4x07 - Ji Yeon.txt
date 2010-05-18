@@ -196,11 +196,11 @@ SAYID: It's a note. Three days ago, when I was in Locke's camp, Ben claimed he h
 
 SUN: Hello. My name is Sun.
 
-DANIEL: Hi, Sun, hi... I'm Daniel. (pause) Something I can help you with?
+FARADAY: Hi, Sun, hi... I'm Daniel. (pause) Something I can help you with?
 
 SUN: I'm two months pregnant.
 
-DANIEL: Oh, you're... Wow, that's... Congratulations!
+FARADAY: Oh, you're... Wow, that's... Congratulations!
 
 SUN: So are you here to rescue us?
 
@@ -208,7 +208,7 @@ SUN: So are you here to rescue us?
 
 SUN: It's a simple question. Are you or are you not going to rescue us?
 
-DANIEL: The thing is... um, it's not really my call, Sun.
+FARADAY: The thing is... um, it's not really my call, Sun.
 
 SUN: And whose call is it?
 
@@ -508,31 +508,31 @@ SAYID: That's exactly what I think.
 
 [Ray enters]
 
-RAY: Gentlemen, thanks for your patience. The captain would like to see you now.
+DR. RAY: Gentlemen, thanks for your patience. The captain would like to see you now.
 
 [Ray leads Desmond and Sayid on deck]
 
 SAYID: Where's the helicopter?
 
-RAY: Lapidus is running an errand.
+DR. RAY: Lapidus is running an errand.
 
 SAYID: What kind of errand?
 
-RAY: I'm a doctor. I don't know where he's going.
+DR. RAY: I'm a doctor. I don't know where he's going.
 
 SAYID: Did he go to the island?
 
-RAY: You know anywhere else he could land?
+DR. RAY: You know anywhere else he could land?
 
 [Desmond notices Regina, as she walks covered in chains]
 
 SAYID: What's he going to do there?
 
-RAY: I said I'm just a doctor.
+DR. RAY: I said I'm just a doctor.
 
 SAYID: What did Lapidus say?
 
-RAY: He didn't say anything to me.
+DR. RAY: He didn't say anything to me.
 
 SAYID: (frustrated) What is he doing there?
 
@@ -558,7 +558,7 @@ DESMOND: Bring a rope!
 
 SAYID: Get a rope!
 
-DESMOND and SAYID: Get a rope!
+DESMOND AND SAYID: Get a rope!
 
 GAULT: Stop!
 
@@ -656,35 +656,35 @@ DR. BAE: (in Korean) Congratulations. You have a baby daughter. [:축하드립�
 
 [On the freighter, Ray leads Sayid and Desmond to their new room.]
 
-RAY: So what do you think of the captain?
+DR. RAY: So what do you think of the captain?
 
 SAYID: He was surprisingly forthcoming.
 
-RAY: Yeah, he tells it like it is. Just don't piss him off. You know what I mean? I think you'll like your room. It's on a quiet part of the ship.
+DR. RAY: Yeah, he tells it like it is. Just don't piss him off. You know what I mean? I think you'll like your room. It's on a quiet part of the ship.
 
 DESMOND: This... ship isn't moving.
 
-RAY: Well, if you say so.
+DR. RAY: Well, if you say so.
 
 [Ray opens the door to a room with bugs, and a blood stain on the wall]
 
-RAY: That shouldn't still be there... Damn it!
+DR. RAY: That shouldn't still be there... Damn it!
 
 [He turns to the man cleaning the floor behind them]
 
-RAY: Hey, Johnson. Is that you? Johnson!
+DR. RAY: Hey, Johnson. Is that you? Johnson!
 
 JOHNSON: Yeah.
 
-RAY: Mop this up.
+DR. RAY: Mop this up.
 
 JOHNSON: Sorry, I gotta go up on deck.
 
-RAY: No, you're gonna mop this up!
+DR. RAY: No, you're gonna mop this up!
 
 [Johnson walks towards them, comes out of the shadow and is revealed to be Michael Dawson]
 
-RAY: (To Johnson) Kevin, this is, uh...
+DR. RAY: (To Johnson) Kevin, this is, uh...
 
 SAYID: Sayid.
 

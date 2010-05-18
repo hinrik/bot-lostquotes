@@ -10,7 +10,7 @@ ROSE: He knows somethin'!
 
 BERNARD: I want the truth!
 
-DANIEL: I don't know. That's the truth. I'm telling you, I don't know why, but there's no signal now.
+FARADAY: I don't know. That's the truth. I'm telling you, I don't know why, but there's no signal now.
 
 BERNARD: Signal? What, there was a signal when you called them last night.
 
@@ -266,21 +266,21 @@ JULIET: These are the instruments that I need you to bring back. You'll find the
 
 SUN: "Clamps"? "Sutures"? Juliet, I don't know what these look like.
 
-DAN: I can help you. I'm familiar with surgical instruments. Uh...
+FARADAY: I can help you. I'm familiar with surgical instruments. Uh...
 
 JULIET: I thought you were a physicist.
 
-DAN: Yeah, well, I've done some animal autopsies, too, so if--if--
+FARADAY: Yeah, well, I've done some animal autopsies, too, so if--if--
 
 ROSE: No. We can't trust them.
 
 CHARLOTTE: (Scoffs) See, Dan? I told you. They're convinced we're trying to kill 'em. Might as well keep playing the part.
 
-DAN: Damn it, Charlotte. That right there, that right there. Your--your attitude--your very bad attitude--it's exactly why they don't trust us. (Whispers) Come on. (Normal voice) Juliet, please. Don't blame us for--for this, for whatever is happening. We're scientists. We don't want anyone to get hurt. We just wanna help. Please let us help.
+FARADAY: Damn it, Charlotte. That right there, that right there. Your--your attitude--your very bad attitude--it's exactly why they don't trust us. (Whispers) Come on. (Normal voice) Juliet, please. Don't blame us for--for this, for whatever is happening. We're scientists. We don't want anyone to get hurt. We just wanna help. Please let us help.
 
 JULIET: (To Jin, as she hands him a gun) Either of them tries to run? Shoot 'em in the leg. Get back here as fast as you can.
 
-DAN: Okay. Thank you.
+FARADAY: Okay. Thank you.
 
 [Click]
 
@@ -434,11 +434,11 @@ JACK: Take your meds, Hurley. Just take 'em.
 
 HURLEY: Hey, Jack? Charlie said someone's gonna be visiting you, too. Soon. 
 
-DANIEL: We're here. Hey. Uh... why don't you let me go first? Um, you know, make sure everything's safe.
+FARADAY: We're here. Hey. Uh... why don't you let me go first? Um, you know, make sure everything's safe.
 
 CHARLOTTE: Okay. Be careful, Dan.
 
-DANIEL: Absolutely.
+FARADAY: Absolutely.
 
 JIN: 저 여자는 저 남자가 좋아하는 걸 알까? [Subtitle: Do you think she knows he likes her?]
 
@@ -450,7 +450,7 @@ SUN: 어서 가요. [Subtitle: Jin. Come on.]
 
 [The secret door to the medical lab makes a grinding sound across the floor as it slides open. The four enter the lab.]
 
-DANIEL: where do you suppose all this power's coming from?
+FARADAY: where do you suppose all this power's coming from?
 
 CHARLOTTE: Add that one to the list, Dan. Let's just grab the equipment and go, shall we?
 
@@ -639,7 +639,7 @@ BERNARD: Look, they're back.
 
 JULIET: Did you find everything?
 
-DANIEL: Yes, ma'am. The entire list. Is he okay?
+FARADAY: Yes, ma'am. The entire list. Is he okay?
 
 JULIET: For now. Sun, we need to sterilize these. There's a pot of water boiling over here.
 

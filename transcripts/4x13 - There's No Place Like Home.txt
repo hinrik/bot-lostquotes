@@ -530,9 +530,15 @@ BEN: May I have my weapon back?
 
 [Clicking]
 
-HURLEY: Sayid! Kate! [Sayid and Hurley hug]Good to see you, Dude.
+HURLEY: Sayid! Kate!
 
-[Sawyer looks at a mercenary body] SAWYER: He say somethin' to tick you off, Freckles?
+[Sayid and Hurley hug]
+
+HURLEY: Good to see you, Dude.
+
+[Sawyer looks at a mercenary body]
+
+SAWYER: He say somethin' to tick you off, Freckles?
 
 KATE: Didn't kill that one.
 

@@ -458,7 +458,7 @@ RICHARD: We didn't start this, friend. Your people attacked us. You come to our 
 
 FARADAY: I don't know anything about that. We are scientists.
 
-ALPERT: So what? So they sent you here to recover it?
+RICHARD: So what? So they sent you here to recover it?
 
 FARADAY: If you mean our hydrogen bomb, then yes. And I'm guessing from this man's radiation burns that the housing has been compromised. Is that right?
 
@@ -628,7 +628,7 @@ RICHARD: Yeah, well, so do I.
 
 JONES: Richard! Richard!
 
-ALPERT: What the hell happened to you?
+RICHARD: What the hell happened to you?
 
 JONES: Cunningham and I--a group of them surprised us. We were outnumbered, but I escaped.
 

@@ -88,7 +88,7 @@ BRAM: Oh, thanks. We got it.
 
 BEN: Okay. Have a great day.
 
-CEASAR: How you feeling, my friend?
+CAESAR: How you feeling, my friend?
 
 BEN: Like someone hit me with an oar, but I'll live.
 
@@ -134,23 +134,23 @@ BEN: Don't! Don't do it.
 
 [Baby continues crying]
 
-ROUSSEAU: You're the one who infected us, aren't you?! C'est vous qui nous avez infectés!
+DANIELLE: You're the one who infected us, aren't you?! C'est vous qui nous avez infectés!
 
-ROUSSEAU: Non! Non! Rendez-moi mon bébé! Non!
+DANIELLE: Non! Non! Rendez-moi mon bébé! Non!
 
 BEN: Shh.
 
-ROUSSEAU: Rendez-moi mon bébé!
+DANIELLE: Rendez-moi mon bébé!
 
 BEN: It's okay. It's okay, baby.
 
 [Shouting in French]
 
-ROUSSEAU: Ne l'infectez pas, lui aussi! [Shouts, repeating herself] Please, don't take my Alex!  
+DANIELLE: Ne l'infectez pas, lui aussi! [Shouts, repeating herself] Please, don't take my Alex!  
 
 BEN: Do you want your baby to live?
 
-ROUSSEAU: Why are you taking her?!
+DANIELLE: Why are you taking her?!
 
 [Alex wailing]
 
@@ -310,7 +310,7 @@ WIDMORE: Is that a... baby? Your orders were to exterminate that woman.
 
 BEN: Why? She's no threat to us. She's insane, Charles. Besides, you didn't tell me she had a child. What was it I was supposed to do?
 
-CHARLES: Kill it.
+WIDMORE: Kill it.
 
 [Alex cries]
 

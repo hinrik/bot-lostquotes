@@ -34,11 +34,11 @@ JACK: [entering] Hey, you going to get that?
 
 JACK: [to Ana] When's the last time you went in to see him?
 
-ANA: A couple of hours ago. He was sleeping.
+ANA LUCIA: A couple of hours ago. He was sleeping.
 
 JACK: Did he eat?
 
-ANA: No. It's 2 days now. No food. No water. Nothing to say.
+ANA LUCIA: No. It's 2 days now. No food. No water. Nothing to say.
 
 JACK: I don't know about you but I'm tired of waiting.
 
@@ -130,15 +130,15 @@ BERNARD: I got an idea. [he walks away and goes toward a couple of redshirts] He
 
 [Back in the hatch we see Jack getting some gear together.]
 
-ANA: I'm not so sure trading people's their thing.
+ANA LUCIA: I'm not so sure trading people's their thing.
 
 JACK: Well, talking to him is getting us nowhere, so -- I think we can get something for him.
 
-ANA: You want me to come with you?
+ANA LUCIA: You want me to come with you?
 
 JACK: [looking over at Locke] You need to stay here.
 
-ANA: [handing him her gun] You need it more than I do. Do yourself a favor, man. Don't go out there alone.
+ANA LUCIA: [handing him her gun] You need it more than I do. Do yourself a favor, man. Don't go out there alone.
 
 JACK: Alright.
 
@@ -280,7 +280,7 @@ CHARLIE: I like you just the way you are.
 
 LOCKE: [to Ana] I need to talk to him.
 
-ANA: The gun's with Jack. The door stays closed. But if you want to talk to him -- talk to him.
+ANA LUCIA: The gun's with Jack. The door stays closed. But if you want to talk to him -- talk to him.
 
 LOCKE: [through the armory door] Henry, can you hear me? [he knocks] It's John, Henry. Henry, did you enter the numbers? Did you push the button, or not? Henry, I need to know. I want you to answer me. Answer me!
 
@@ -626,15 +626,15 @@ BERNARD: I would offer to take down the sign, but we didn't get very far.
 
 [In the hatch we see Locke listening to music. Ana approaches.]
 
-ANA: Hey.
+ANA LUCIA: Hey.
 
 LOCKE: Hi.
 
-ANA: I pressed your button.
+ANA LUCIA: I pressed your button.
 
 LOCKE: It's not my button.
 
-ANA: Where did you go?
+ANA LUCIA: Where did you go?
 
 LOCKE: I just needed to stretch my legs.
 

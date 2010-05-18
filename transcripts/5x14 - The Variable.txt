@@ -54,7 +54,7 @@ DR. CHANG: All right, ladies and gentlemen, you know why you're here. I wish you
 
 MILES: [Whispers] What the hell are you doing back here, Dan? Once you left for Ann Arbor, I figured you'd gotten rich, invented the DVD or something.
 
-CHANG: The shuttle will pick you up at the motor pool...
+DR. CHANG: The shuttle will pick you up at the motor pool...
 
 [Miles indicates a facsimilie of the DHARMA Initiative new recruits photograph that includes Jack, Kate, and Hurley.]
 
@@ -112,7 +112,7 @@ WOMAN: [British accent] I loved it. It was beautiful, Daniel.
 
 ELOISE: Daniel... do you know what destiny means?
 
-DANIEL: No.
+FARADAY: No.
 
 ELOISE: Destiny means that, if one has a special gift, then it must be nurtured.
 
@@ -120,7 +120,7 @@ ELOISE: Destiny means that, if one has a special gift, then it must be nurtured.
 
 ELOISE: How many beats has that metronome counted since you started playing?
 
-DANIEL: 864.
+FARADAY: 864.
 
 ELOISE: Your gift, Daniel, is your mind--a mind that is meant for science, mathematics. And it's my... job to keep you on your path. So... unfortunately, there's no more time...
 
@@ -128,7 +128,7 @@ ELOISE: Your gift, Daniel, is your mind--a mind that is meant for science, mathe
 
 ELOISE: ...for distractions.
 
-DANIEL: But I want to keep playing the piano. I can do both. I can make time.
+FARADAY: But I want to keep playing the piano. I can do both. I can make time.
 
 ELOISE: If only you could.
 
@@ -502,7 +502,7 @@ JULIET: The code for the fence is 1-4-1-7-1-7. You should take Daniel. It's over
 
 KATE: Okay. Let's go.
 
-DANIEL: Great. Great. Thank you. Hey, Miles, can you drive us?
+FARADAY: Great. Great. Thank you. Hey, Miles, can you drive us?
 
 [Miles tosses Faraday the ring of keys.]
 

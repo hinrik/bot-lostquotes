@@ -76,7 +76,7 @@ KATE: Katie.
 
 SHOPKEEPER: Well Katie, I'm calling your mom, then the cops, because I don't tolerate stealing here, you understand?
 
-MAN (offscreen): No need to do that. I'll pay for it. I hope this is enough. [gestures with several bills]
+MAN: [off screen] No need to do that. I'll pay for it. I hope this is enough. [gestures with several bills]
 
 [Kate and Tom look over at the man in surprise -- it's Jacob, looking exactly the same now as he did back in the 1800's.]
 
@@ -166,19 +166,19 @@ RADZINSKY: Who stopped the damn drill!?
 
 [He turns a corner, and Pierre Chang is looking up at the drill.]
 
-CHANG: I did.
+DR. CHANG: I did.
 
 RADZINSKY: Why?
 
-CHANG: Because when we passed seventy meters, the drill temp went up sixty degrees, and I didn't want it to melt.
+DR. CHANG: Because when we passed seventy meters, the drill temp went up sixty degrees, and I didn't want it to melt.
 
 RADZINSKY: [striding away] Pierre, that's why we have a truck full of water. So cool it down and turn it on. [walks up to control panel]
 
-CHANG: Stuart, we just evacuated the Island of all nonessential personnel. We're in the midst of a possible insurrection. Do you really think this is the ideal time for your experiments?
+DR. CHANG: Stuart, we just evacuated the Island of all nonessential personnel. We're in the midst of a possible insurrection. Do you really think this is the ideal time for your experiments?
 
 RADZINSKY: I've been working on this project for six years. Designing a station that'll be able to manipulate electromagnetism in ways we only dreamed of.
 
-CHANG: Have you thought about the consequences of drilling into that pocket? We have no idea what we are gonna --
+DR. CHANG: Have you thought about the consequences of drilling into that pocket? We have no idea what we are gonna --
 
 RADZINSKY: If Edison was only worried about the consequences, we'd all still be sitting in the dark. I came to this Island to change the world, Pierre; that's exactly what I intend to do. [strides away] [to workers] Let's get it started! [turns on drill; it whirs to life, drilling away into the blackness below.]
 
@@ -252,11 +252,11 @@ ILANA: He's awake.
 
 BRAM: How long you been listening to us?
 
-FRANK: Long enough to wonder what the hell I'm a candidate for. [He gets up with the help of Bram] Who the hell are you people?
+LAPIDUS: Long enough to wonder what the hell I'm a candidate for. [He gets up with the help of Bram] Who the hell are you people?
 
 ILANA: We're friends.
 
-FRANK: So you smack all your friends in the face with a rifle, shove 'em in a boat, and kidnap 'em?
+LAPIDUS: So you smack all your friends in the face with a rifle, shove 'em in a boat, and kidnap 'em?
 
 ILANA: Only the ones we like.
 
@@ -264,7 +264,7 @@ ILANA: Only the ones we like.
 
 BRAM: [to the other three passengers, picking up the crate] Let's go.
 
-FRANK: What's in the box?
+LAPIDUS: What's in the box?
 
 [Ilana looks at Bram expectantly.]
 
@@ -274,7 +274,7 @@ ILANA: Open it.
 
 [They do. Frank looks in and is shocked by what he sees.]
 
-FRANK: Terrific. 
+LAPIDUS: Terrific. 
 
 [Church bells toll after a funeral. A young James Ford watches caskets containing the bodies of his parents be placed in vehicles to be transported to the cemetery. His uncles arm rests on his shoulder supportively.]
 
@@ -628,7 +628,9 @@ SAWYER: Bernard.
 
 BERNARD: Sawyer.
 
-Rose. Thank you. SAWYER: Let's go.
+SAWYER: Rose. Thank you.
+
+SAWYER: Let's go.
 
 JULIET: Bye.
 
@@ -644,7 +646,7 @@ LAPIDUS: What for?
 
 ILANA: So they'll know what they're up against.
 
-LAPIUS: What exactly are they up against?
+LAPIDUS: What exactly are they up against?
 
 BRAM: Something a hell of a lot scarier than what's in this box, Frank. Don't worry, though. As long as you're with us, you're fine.
 

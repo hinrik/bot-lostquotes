@@ -260,7 +260,7 @@ MAN: No! Don't! Please! No!
 
 [Eko raises the machete over his head at the man intending to strike. The man is suddenly the altar boy Daniel and Eko stops.]
 
-DANIEL: [Raising his finger to his lips] Shhhhhh. Confess.
+FARADAY: [Raising his finger to his lips] Shhhhhh. Confess.
 
 [Eko drops the knife. The boy and all the other attackers disappear. Eko looks around at the jungle, shocked and confused.]
 
@@ -308,11 +308,11 @@ LOCKE: Don't mistake coincidence for fate.
 
 [Eko is back in church, washing his hands in the holy water basin. Daniel is in altar boy's attire, lighting candles.]
 
-DANIEL: You're not supposed to do that. That's holy water.
+FARADAY: You're not supposed to do that. That's holy water.
 
 EKO: I'm washing away my sins.
 
-DANIEL: Father Yemi wouldn't...
+FARADAY: Father Yemi wouldn't...
 
 EKO: I am not Father Yemi.
 
@@ -506,7 +506,7 @@ EKO: You do not know who I am!
 
 [Back on the island, the interior of The Pearl is shown. Nikki is sitting in a chair watching the video while Locke and Sayid work on the wiring of the computer. A scene from the Pearl orientation film plays on the screen.]
 
-Narration: I'm Dr. Mark Wickmund, and this is the Orientation Film for Station 5 of the DHARMA Initiative. Station 5, or, The Pearl, is a monitoring station where the activities of participants in DHARMA Initiative projects can be observed and recorded.
+NARRATION: I'm Dr. Mark Wickmund, and this is the Orientation Film for Station 5 of the DHARMA Initiative. Station 5, or, The Pearl, is a monitoring station where the activities of participants in DHARMA Initiative projects can be observed and recorded.
 
 LOCKE: [Talking to Sayid over the sound of the film] Well?
 
@@ -520,7 +520,7 @@ NIKKI: All these TVs... this guy says that there's 6 stations. Uh, here, check i
 
 [Nikki rewinds the film and plays a section again.]
 
-Narration: ...is a monitoring station where the activities of participants in DHARMA Initiative projects can be observed and recorded.
+NARRATION: ...is a monitoring station where the activities of participants in DHARMA Initiative projects can be observed and recorded.
 
 NIKKI: Projects. More than one. So, maybe some of these TVs are connected to the other hatches.
 
@@ -624,11 +624,11 @@ JULIET: Think about what I said. Please.
 
 [Inside Yemi's church, Daniel is sweeping. Eko walks through carrying a suitcase.]
 
-DANIEL: Where are you going?
+FARADAY: Where are you going?
 
 EKO: London.
 
-DANIEL: Are you a bad man? [Eko stops] My mom says you're a bad man.
+FARADAY: Are you a bad man? [Eko stops] My mom says you're a bad man.
 
 EKO: Only God knows.
 

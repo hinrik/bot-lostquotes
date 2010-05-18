@@ -106,7 +106,13 @@ sub find_quote {
         }
         else {
             # case-insensitive word search
-            next if $candidate->[LINE] !~ /\b\Q$query\E\b/i;
+            my $normal = $query;
+            $normal =~ s/’/'/;
+            my $fancy = $query;
+            $fancy =~ s/'/’/;
+
+            next if $candidate->[LINE] !~ /\b\Q$normal\E\b/i
+            && $candidate->[LINE] !~ /\b\Q$fancy\E\b/i
         }
         return $candidate;
     }

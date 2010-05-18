@@ -1,11 +1,11 @@
 #!/bin/bash
 
-src=./transcripts
 live=/var/www/nix.is/quotes
-htmlize=./htmlize.py
 
-ls $src/* > list
-$htmlize
-mv $src/*.html $live/
+cd transcripts
+ls * > list
+../htmlize.py
+mv *.html $live/
+rm list
 cd $live
 rename 's/(\dx\d+).*/$1.html/' *

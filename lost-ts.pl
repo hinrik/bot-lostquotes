@@ -123,12 +123,12 @@ sub read_transcripts {
     chdir 'transcripts';
     my @files = glob '*.txt';
 
-    my $line_no = 0;
     for my $file (@files) {
         open my $script, '<:encoding(utf8)', $file or die "Can't open '$file': $!";
         $file = decode('utf8', $file);
         my ($season, $episode, $title) = $file =~ /^(\d+)x(\d+) - (.+)\.txt$/;
 
+        my $line_no = 0;
         while (my $line = <$script>) {
             chomp $line;
             next if $line =~ /^\s*$/;              # skip empty lines

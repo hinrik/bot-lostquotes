@@ -56,7 +56,7 @@ sub irc_public {
     if ($what =~ s/^,ts\s+//i) {
         my $entry = find_quote($what);
         if (defined $entry) {
-            $irc->yield(privmsg => $where, "[$entry->[SEASON]x$entry->[EP]] $entry->[CHAR]: “$entry->[LINE]");
+            $irc->yield(privmsg => $where, "[$entry->[SEASON]x$entry->[EP]] $entry->[CHAR]: “$entry->[LINE]”");
             my $url = "http://github.com/hinrik/bot-lostquotes/blob/master/transcripts/";
             $url .= uri_escape("$entry->[SEASON]x$entry->[EP] - $entry->[TITLE]").".txt#L$entry->[NUMBER]";
             $irc->yield(privmsg => $where, "Context: $url");

@@ -57,8 +57,7 @@ sub irc_public {
         my $entry = find_quote($what);
         if (defined $entry) {
             $irc->yield(privmsg => $where, "[$entry->[SEASON]x$entry->[EP]] $entry->[CHAR]: “$entry->[LINE]”");
-            my $url = "http://github.com/hinrik/bot-lostquotes/blob/master/transcripts/";
-            $url .= uri_escape("$entry->[SEASON]x$entry->[EP] - $entry->[TITLE]").".txt#L$entry->[NUMBER]";
+            my $url = "http://nix.is/quotes/$entry->[SEASON]x$entry->[EP].txt#L$entry->[NUMBER]";
             $irc->yield(privmsg => $where, "Context: $url");
         }
         else {
@@ -124,6 +123,7 @@ sub read_transcripts {
     chdir 'transcripts';
     my @files = glob '*.txt';
 
+    my $line_no = 0;
     for my $file (@files) {
         open my $script, '<:encoding(utf8)', $file or die "Can't open '$file': $!";
         $file = decode('utf8', $file);
@@ -132,6 +132,7 @@ sub read_transcripts {
         while (my $line = <$script>) {
             chomp $line;
             next if $line =~ /^\s*$/;              # skip empty lines
+            $line_no++;
             $line =~ s/\[(?!Subtitle).+?\]\s*//g;  # remove non-dialogue stuff
             next if !length $line;
 
@@ -139,7 +140,7 @@ sub read_transcripts {
                 if (my ($subtitle) = $what =~ /\[Subtitle: (.*?)\]/) {
                     $what = $subtitle;
                 }
-                push @scripts, [$title, $season, $episode, $who, $what, $.];
+                push @scripts, [$title, $season, $episode, $who, $what, $line_no];
             }
         }
     }

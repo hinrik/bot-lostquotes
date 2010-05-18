@@ -68,7 +68,7 @@ SOLDIER 1: One, two three, four...
 
 SOLDIER 2: (to Desmond) I hope your dream was worth this, mate.
 
-DESMOND: Sorry brotha. It's just that, I've never had a dream so vivid. It was like I was actually there.
+DESMOND: Sorry brother. It's just that, I've never had a dream so vivid. It was like I was actually there.
 
 SGT: Have you got something to say, Hume?
 
@@ -354,7 +354,7 @@ DESMOND: What the bloody hell is going on?
 
 DR. RAY: I understand, you're disoriented.
 
-DESMOND: You're not going to stick me with that, brotha.
+DESMOND: You're not going to stick me with that, brother.
 
 DR. RAY: I don't want to stick you with anything. It's okay, I just want to check your eyes.
 
@@ -690,7 +690,7 @@ DESMOND: I need to call Penny.
 
 SAYID: Calling your girlfriend is not our priority.
 
-DESMOND: Listen, brotha, I don't know you. But you seem to know me, so...so if you and me are friends, then I need your help. I need to call Penny, now.
+DESMOND: Listen, brother, I don't know you. But you seem to know me, so...so if you and me are friends, then I need your help. I need to call Penny, now.
 
 MINKOWSKI: Whoa! You boys are getting way ahead of yourselfs. Two days ago, someone sabotaged all the equipment. We lost all communication with the mainland. I probably could have fixed it, but then I went nuts.
 
@@ -710,7 +710,7 @@ MINKOWSKI: Looks like you guys have a friend on this boat.
 
 [MINKOWSKI'S nose is bleeding]
 
-DESMOND: Hey, uh...your nose, brotha.
+DESMOND: Hey, uh...your nose, brother.
 
 SAYID: It's clear. Let's g--
 
@@ -724,7 +724,7 @@ AUCTIONEER: The Black Rock set sail from Portsmith England on March 22, 1845 on 
 
 SUITED GUARD: This auction's reservation only, sir.
 
-DESMOND: Listen, brotha, I just need to speak to that gentleman, just for a moment, okay?
+DESMOND: Listen, brother, I just need to speak to that gentleman, just for a moment, okay?
 
 SUITED GUARD: I'm sorry.
 
@@ -782,7 +782,7 @@ MINKOWSKI: You got me. But when the captain finds out, I feel cer---
 
 SAYID: After your call, someone has to tell me precisely what is going on.
 
-DESMOND: Can you fix it, brotha?
+DESMOND: Can you fix it, brother?
 
 SAYID: I need a minute. Do you have the number to make the call?
 

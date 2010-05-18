@@ -5,6 +5,7 @@ use warnings;
 use utf8;
 
 use Encode qw<decode>;
+use List::Util qw<shuffle>;
 use POE;
 use POE::Component::IRC;
 use POE::Component::IRC::Common qw<irc_to_utf8>;
@@ -71,7 +72,7 @@ sub find_quote {
         $params{$key} = $value;
     }
 
-    for my $candidate (@scripts) {
+    for my $candidate (shuffle(@scripts)) {
         if (defined $params{c}) {
             next if lc($candidate->[CHAR]) ne lc($params{c});
         }

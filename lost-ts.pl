@@ -119,7 +119,7 @@ sub irc_botcmd_tscount {
         "$prefix$entry => $freq{$_}"
     } sort { $freq{$b} <=> $freq{$a} } keys %freq;
 
-    $irc->yield(privmsg => $where, 'Matches: ' . join(', ', @data));
+    $irc->yield(privmsg => $where, scalar(@matches).' matches: '.join(', ', @data));
 }
 
 sub parse_params {

@@ -125,11 +125,14 @@ sub parse_params {
     my ($query) = @_;
 
     my %params;
-    while ($query =~ s/([cse]|sort)=("[^"]+"|\S+)\s*//g) {
+    my $opt_regex = qr/(sort|[cse])=("[^"]+"|\S+)/;
+
+    while ($query =~ /$opt_regex/g) {
         my ($key, $value) = ($1, $2);
         $value =~ s/^"|"$//g;
         $params{$key} = $value;
     }
+    $query =~ s/$opt_regex\s*//g;
 
     return \%params, $query;
 }

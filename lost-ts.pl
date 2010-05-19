@@ -57,6 +57,7 @@ sub _start {
         Addressed      => 0,
         Prefix         => ',',
         Ignore_unknown => 1,
+        Method         => 'privmsg',
         Commands       => {
             ts      => 'Look up a line from the Lost transcripts',
             tscount => 'Count the matches of this query in the transcripts',

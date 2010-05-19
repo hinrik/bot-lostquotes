@@ -8,7 +8,7 @@ use Encode qw<decode>;
 use List::Util qw<shuffle>;
 use POE;
 use POE::Component::IRC;
-use POE::Component::IRC::Common qw<irc_to_utf8>;
+use POE::Component::IRC::Common qw<irc_to_utf8 NORMAL BOLD>;
 use POE::Component::IRC::Plugin::BotCommand;
 use Text::Capitalize;
 
@@ -116,10 +116,10 @@ sub irc_botcmd_tscount {
     my $prefix = $sort_index eq SEASON ? 'S' : '';
     my @data = map {
         my $entry = $sort_index eq CHAR ? capitalize(lc $_) : $_;
-        "$prefix$entry => $freq{$_}"
+        "$prefix$entry: ".BOLD.$freq{$_}.NORMAL
     } sort { $freq{$b} <=> $freq{$a} } keys %freq;
 
-    $irc->yield(privmsg => $where, scalar(@matches).' matches: '.join(', ', @data));
+    $irc->yield(privmsg => $where, BOLD.scalar(@matches).NORMAL.' matches: '.join(', ', @data));
 }
 
 sub parse_params {

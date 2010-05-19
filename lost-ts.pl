@@ -184,7 +184,7 @@ sub find_quote {
         wantarray ? push @results, $candidate : return $candidate;
     }
 
-    return @results;
+    wantarray ? return @results : return;
 }
 
 sub read_transcripts {

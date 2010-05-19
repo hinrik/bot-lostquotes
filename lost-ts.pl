@@ -132,7 +132,8 @@ sub parse_params {
         $value =~ s/^"|"$//g;
         $params{$key} = $value;
     }
-    $query =~ s/$opt_regex\s*//g;
+    $query =~ s/$opt_regex//g;
+    $query =~ s/^\s+|\s+$//g;
 
     return \%params, $query;
 }

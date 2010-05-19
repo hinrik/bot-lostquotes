@@ -22,9 +22,9 @@ use constant {
 };
 
 my %param2index = (
-    s => CHAR,
-    e => CHAR,
-    c => SEASON,
+    s => SEASON,
+    e => EP,
+    c => CHAR,
 );
 
 my ($irc, @scripts);
@@ -90,37 +90,31 @@ sub irc_botcmd_tscount {
     my $what  = irc_to_utf8($_[ARG2]);
 
     my ($params, $query) = parse_params($what);
+    my $sort_param = delete $params->{sort};
     
-    if (keys %$params != 1) {
-        $irc->yield(privmsg => $where, 'You must specify 1 (and only 1) of c=, s=, or e=');
-        return;
-    }
-
-    my ($param) = keys %$params;
-
-    if ($param eq 'e' && $params->{$param} !~ /^\dx\d\d$/) {
-        $irc->yield(privmsg => $where, 'Ep number must be of the format #x##, e.g. 6x15');
+    if (!defined $sort_param) {
+        $irc->yield(privmsg => $where, "You must specify sort criteria, e.g. sort=c");
         return;
     }
 
     my @matches = find_quote($params, $query);
-
     if (!@matches) {
         $irc->yield(privmsg => $where, 'No matches quotes found.');
         return;
     }
 
-    my $count_index = $param2index{$param};
+    my $sort_index = $param2index{$sort_param};
     my %freq;
 
     for my $match (@matches) {
-        my $value = $match->[$count_index];
+        my $value = $match->[$sort_index];
+        $value = "$match->[SEASON]x$value" if $sort_index == EP;
         $freq{$value}++;
     }
 
-    my $prefix = $count_index eq SEASON ? 'S' : '';
+    my $prefix = $sort_index eq SEASON ? 'S' : '';
     my @data = map {
-        my $entry = $count_index eq CHAR ? capitalize(lc $_) : $_;
+        my $entry = $sort_index eq CHAR ? capitalize(lc $_) : $_;
         "$prefix$entry => $freq{$_}"
     } sort { $freq{$b} <=> $freq{$a} } keys %freq;
 
@@ -131,7 +125,7 @@ sub parse_params {
     my ($query) = @_;
 
     my %params;
-    while ($query =~ s/([cse])=("[^"]+"|\S+)\s*//g) {
+    while ($query =~ s/([cse]|sort)=("[^"]+"|\S+)\s*//g) {
         my ($key, $value) = ($1, $2);
         $value =~ s/^"|"$//g;
         $params{$key} = $value;

@@ -177,8 +177,8 @@ sub find_quote {
             my $fancy = $query;
             $fancy =~ s/'/’/;
 
-            next if $candidate->[LINE] !~ /\b\Q$normal\E\b/i
-            && $candidate->[LINE] !~ /\b\Q$fancy\E\b/i
+            next if $candidate->[LINE] !~ /(?<!\w)\Q$normal\E(?!\w)/i
+                 && $candidate->[LINE] !~ /(?<!\w)\b\Q$fancy\E(?!\w)/i;
         }
 
         wantarray ? push @results, $candidate : return $candidate;
